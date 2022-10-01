@@ -24,6 +24,7 @@ function Home() {
 
   const [origin, setOrigin] = useState(central);
   const [destination, setDestination] = useState(central);
+  const [distance, setDistance] = useState(null)
 
   function handleValue(e) {
     switch (e.target.value) {
@@ -65,6 +66,7 @@ function Home() {
       travelMode: google.maps.TravelMode.DRIVING,
     });
     console.log(res.routes[0].legs[0].distance.text);
+    setDistance(res.routes[0].legs[0].distance.text)
   };
 
   return (
@@ -85,7 +87,9 @@ function Home() {
 
           <button onClick={handleDirections}>Click Me</button>
         </div>
-        <CarbonDisplay></CarbonDisplay>
+        <div className="display">
+          {distance && <CarbonDisplay distance={distance} />}
+        </div>
       </div>
 
       <div className="map">
