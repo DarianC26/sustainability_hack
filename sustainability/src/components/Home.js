@@ -10,7 +10,10 @@ function Home() {
     display: "flex",
   };
 
-  const [origin, setOrigin] = useState({ lat: 42.3505, lng: -71.1054 });
+  const origin = { lat: 42.3505, lng: -71.1054 };
+  const west = { lat: 42.3526, lng: -71.1203 };
+  const east = { lat: 42.3497, lng: -71.1042 };
+
   return (
     <div className="grid-container">
       <div className="info-container">
@@ -26,6 +29,8 @@ function Home() {
             zoom={15}
           >
             <Marker position={origin} />
+            <Marker position={west} />
+            <Marker position={east} />
           </GoogleMap>
         </LoadScript>
       </div>
