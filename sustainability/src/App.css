@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #6D9775;
 }
 .heading{
   font-family: BrusselsCity;
@@ -32,6 +33,23 @@
   cursor:pointer;
 }
 .mapContainer{
-  height:60%;
+  height:70%;
   width: 100%;
+}
+.map{
+  flex: 1;
+}
+.info-container{
+  display:flex;
+  flex-direction: column;
+  flex:1;
+  background-color:#417154;
+}
+.form{
+  display:flex;
+  flex:5;
+}
+.carbonDisplay{
+  display:flex;
+  flex:5;
 }

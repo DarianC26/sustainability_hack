@@ -1,9 +1,46 @@
 .grid-container {
     grid-template-columns: 20% 80%;
     display: flex;
+    text-align: center;
 }
 
 .form {
     width: 100%;
     height: 100%;
+    
+}
+.carbonDisplay{
+    display:flex;
+    flex:1;
+    font-family:BrusselCity;
+    font-weight:250;
+    color:#104730;
+    font-size: 30px;
+    justify-content: center;
+    flex-direction: column;
+}
+.carbonDisplayInfo{
+    font-size:20px;
+}
+.locationForm{
+    display:flex;
+    flex:1;
+    font-family:BrusselCity;
+    font-weight:250;
+    color:#104730;
+    font-size: 30px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.selection {
+    background-color: #95be9c;
+}
+
+.selection2 {
+    background-color: #95be9c;
+}
+
+.btn {
+    text-align: center;
 }
