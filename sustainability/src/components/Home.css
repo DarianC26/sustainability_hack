@@ -9,11 +9,24 @@
 }
 .carbonDisplay{
     display:flex;
+    flex:1;
     font-family:BrusselCity;
     font-weight:250;
     color:#104730;
-    font-size:30px;
+    font-size: 30px;
     justify-content: center;
     flex-direction: column;
-    align-items: flex-start;
+}
+.carbonDisplayInfo{
+    font-size:20px;
+}
+.locationForm{
+    display:flex;
+    flex:1;
+    font-family:BrusselCity;
+    font-weight:250;
+    color:#104730;
+    font-size: 30px;
+    justify-content: center;
+    flex-direction: column;
 }
