@@ -1,14 +1,12 @@
 import { React, Component } from "react";
 import { Map, Marker, GoogleApiWrapper } from "google-maps-react";
 
-export class MapContainer extends Component {
-  render() {
-    return (
-      <Map google={this.props.google} zoom={14}>
-        <Marker onClick={this.onMarkerClick} name={"Current location"} />
-      </Map>
-    );
-  }
+function MapContainer(props) {
+  const coords = {
+    lat: 42.35,
+    lng: -71.1,
+  };
+  return <Map google={props.google} initialCenter={coords} zoom={14}></Map>;
 }
 
 export default GoogleApiWrapper({
