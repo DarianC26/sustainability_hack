@@ -16,3 +16,22 @@
   font-weight:bolder;
   color: #104730;
 }
+.navbar{
+  display:flex;
+  align-self:center;
+  background-color: #417154;
+  height:50px;
+}
+.navButton{
+  align-self:center;
+  font-size:35px;
+  margin-left:20px;
+}
+.navButton:hover{
+  color:#104730;
+  cursor:pointer;
+}
+.mapContainer{
+  height:60%;
+  width: 100%;
+}
