@@ -4,9 +4,6 @@ import {
   GoogleMap,
   LoadScript,
   Marker,
-  Autocomplete,
-  useJsApiLoader,
-  DirectionsRenderer,
 } from "@react-google-maps/api";
 import CarbonDisplay from "./CarbonDisplay";
 import "./Home.css";
@@ -14,7 +11,7 @@ import "./Home.css";
 function Home() {
   const containerStyle = {
     width: "80vw",
-    height: "80vh",
+    height: "87vh",
     display: "flex",
   };
 
@@ -66,26 +63,27 @@ function Home() {
       travelMode: google.maps.TravelMode.DRIVING,
     });
     console.log(res.routes[0].legs[0].distance.text);
-    setDistance(res.routes[0].legs[0].distance.text)
+
+    setDistance(res.routes[0].legs[0].distance.text);
   };
 
   return (
     <div className="grid-container">
       <div className="info-container">
         <div className="form">
-          <select id="selection" onChange={handleValue}>
+          <select className="selection" onChange={handleValue}>
             <option value="1">Central</option>
             <option value="2">West</option>
             <option value="3">East</option>
           </select>
 
-          <select id="selection2" onChange={handleValue2}>
+          <select className="selection2" onChange={handleValue2}>
             <option value="1">Central</option>
             <option value="2">West</option>
             <option value="3">East</option>
           </select>
 
-          <button onClick={handleDirections}>Click Me</button>
+          <button className="btn" onClick={handleDirections}>Click Me</button>
         </div>
         <div className="display">
           {distance && <CarbonDisplay distance={distance} />}

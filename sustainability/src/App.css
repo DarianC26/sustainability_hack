@@ -44,7 +44,6 @@
   flex-direction: column;
   flex:1;
   background-color:#417154;
-  border-radius:30px;
 }
 .form{
   display:flex;
