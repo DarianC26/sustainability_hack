@@ -32,6 +32,22 @@
   cursor:pointer;
 }
 .mapContainer{
-  height:60%;
+  height:70%;
   width: 100%;
+}
+.map{
+  flex: 1;
+}
+.info-container{
+  display:flex;
+  flex-direction: column;
+  flex:1;
+}
+.form{
+  display:flex;
+  flex:5;
+}
+.carbonDisplay{
+  display:flex;
+  flex:5;
 }
