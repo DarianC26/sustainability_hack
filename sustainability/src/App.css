@@ -2,7 +2,36 @@
   text-align: center;
 }
 .heading{
+  font-family: BrusselsCity;
+  display:flex;
+  justify-content: center;
   margin:0;
   background-color:#6D9775;
   height: 100px;
+}
+.headingTitle{
+  align-content:center;
+  align-self: center;
+  font-size:70px;
+  font-weight:bolder;
+  color: #104730;
+}
+.navbar{
+  display:flex;
+  align-self:center;
+  background-color: #417154;
+  height:50px;
+}
+.navButton{
+  align-self:center;
+  font-size:35px;
+  margin-left:20px;
+}
+.navButton:hover{
+  color:#104730;
+  cursor:pointer;
+}
+.mapContainer{
+  height:60%;
+  width: 100%;
 }
