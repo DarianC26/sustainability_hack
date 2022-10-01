@@ -4,25 +4,28 @@ import './Home.css';
 
 function Home() {
     const containerStyle = {
-        width: '800px',
-        height: '400px'
+        width: '80vw',
+        height: '80vh',
+        display: "flex"
       };
-      
-      const center = {
-        lat: 42.3505,
-        lng: -71.1054
-      };
+
+      const [origin, setOrigin] = useState({lat: 42.3505, lng: -71.1054})
     
       return (
-        <LoadScript googleMapsApiKey="AIzaSyDZTp6fe2So-R5FEzo-w4synN9WjPaiMj4">
-          <GoogleMap
-            mapContainerStyle={containerStyle}
-            center={center}
-            zoom={15}>
+        <div className='grid-container'>
+          <div className='form'>hi</div>
+          <div className='map'>
+            <LoadScript googleMapsApiKey="AIzaSyDZTp6fe2So-R5FEzo-w4synN9WjPaiMj4">
+              <GoogleMap
+                mapContainerStyle={containerStyle}
+                center={origin}
+                zoom={15}>
 
-            <Marker position={center} />
-          </GoogleMap>
-        </LoadScript>
+                <Marker position={origin} />
+              </GoogleMap>
+            </LoadScript>
+          </div>
+        </div>
       )
 }
 
