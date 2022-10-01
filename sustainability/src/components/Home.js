@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { GoogleMap, LoadScript, Marker } from "@react-google-maps/api";
+import CarbonDisplay from "./CarbonDisplay";
 import "./Home.css";
 
 function Home() {
@@ -14,7 +15,7 @@ function Home() {
     <div className="grid-container">
       <div className="info-container">
         <div className="form">hi</div>
-        <div className="carbonDisplay">carbonDisplay</div>
+        <CarbonDisplay></CarbonDisplay>
       </div>
 
       <div className="map">

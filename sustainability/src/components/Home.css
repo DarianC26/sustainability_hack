@@ -7,3 +7,13 @@
     width: 100%;
     height: 100%;
 }
+.carbonDisplay{
+    display:flex;
+    font-family:BrusselCity;
+    font-weight:250;
+    color:#104730;
+    font-size:30px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+}

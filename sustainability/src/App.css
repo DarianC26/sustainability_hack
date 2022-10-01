@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #6D9775;
 }
 .heading{
   font-family: BrusselsCity;
@@ -42,6 +43,8 @@
   display:flex;
   flex-direction: column;
   flex:1;
+  background-color:#417154;
+  border-radius:30px;
 }
 .form{
   display:flex;
