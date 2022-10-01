@@ -10,9 +10,6 @@ function Home() {
   };
 
   const [origin, setOrigin] = useState({ lat: 42.3505, lng: -71.1054 });
-  const setMarker = (event) => {
-    event.preventDefault();
-  };
   return (
     <div className="grid-container">
       <div className="info-container">
@@ -26,7 +23,6 @@ function Home() {
             mapContainerStyle={containerStyle}
             center={origin}
             zoom={15}
-            onClick={setMarker}
           >
             <Marker position={origin} />
           </GoogleMap>

@@ -1,0 +1,7982 @@
+[
+  {
+    "Make": "ACURA",
+    "Model": "ILX",
+    "CO2 Emissions(lbs/mile)": 0.268551128
+  },
+  {
+    "Make": "ACURA",
+    "Model": "ILX HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.186341599
+  },
+  {
+    "Make": "ACURA",
+    "Model": "MDX 4WD",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "ACURA",
+    "Model": "RDX AWD",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "ACURA",
+    "Model": "RLX",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "ACURA",
+    "Model": "TL",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "ACURA",
+    "Model": "TL AWD",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "ACURA",
+    "Model": "TSX",
+    "CO2 Emissions(lbs/mile)": 0.290473669
+  },
+  {
+    "Make": "ALFA ROMEO",
+    "Model": "4C",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "ASTON MARTIN",
+    "Model": "DB9",
+    "CO2 Emissions(lbs/mile)": 0.491887016
+  },
+  {
+    "Make": "ASTON MARTIN",
+    "Model": "RAPIDE",
+    "CO2 Emissions(lbs/mile)": 0.491887016
+  },
+  {
+    "Make": "ASTON MARTIN",
+    "Model": "V8 VANTAGE",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "ASTON MARTIN",
+    "Model": "V8 VANTAGE S",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "ASTON MARTIN",
+    "Model": "VANQUISH",
+    "CO2 Emissions(lbs/mile)": 0.491887016
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A4",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A4 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A5 CABRIOLET QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A5 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A6 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A6 QUATTRO TDI (modified)",
+    "CO2 Emissions(lbs/mile)": 0.297324463
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A7 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A7 QUATTRO TDI (modified)",
+    "CO2 Emissions(lbs/mile)": 0.297324463
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A8",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A8 TDI (modified)",
+    "CO2 Emissions(lbs/mile)": 0.306915575
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A8L",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A8L TDI (modified)",
+    "CO2 Emissions(lbs/mile)": 0.306915575
+  },
+  {
+    "Make": "AUDI",
+    "Model": "ALLROAD QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "AUDI",
+    "Model": "Q5",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "AUDI",
+    "Model": "Q5 TDI (modified)",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "AUDI",
+    "Model": "Q5 HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.290473669
+  },
+  {
+    "Make": "AUDI",
+    "Model": "Q7",
+    "CO2 Emissions(lbs/mile)": 0.416528281
+  },
+  {
+    "Make": "AUDI",
+    "Model": "Q7 TDI (modified)",
+    "CO2 Emissions(lbs/mile)": 0.397346057
+  },
+  {
+    "Make": "AUDI",
+    "Model": "R8",
+    "CO2 Emissions(lbs/mile)": 0.460373363
+  },
+  {
+    "Make": "AUDI",
+    "Model": "R8 SPYDER",
+    "CO2 Emissions(lbs/mile)": 0.460373363
+  },
+  {
+    "Make": "AUDI",
+    "Model": "RS 5",
+    "CO2 Emissions(lbs/mile)": 0.419268598
+  },
+  {
+    "Make": "AUDI",
+    "Model": "RS 5 CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.422008916
+  },
+  {
+    "Make": "AUDI",
+    "Model": "RS 7",
+    "CO2 Emissions(lbs/mile)": 0.401456534
+  },
+  {
+    "Make": "AUDI",
+    "Model": "S4",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "AUDI",
+    "Model": "S5",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "AUDI",
+    "Model": "S5 CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.365832404
+  },
+  {
+    "Make": "AUDI",
+    "Model": "S6",
+    "CO2 Emissions(lbs/mile)": 0.385014628
+  },
+  {
+    "Make": "AUDI",
+    "Model": "S7",
+    "CO2 Emissions(lbs/mile)": 0.385014628
+  },
+  {
+    "Make": "AUDI",
+    "Model": "S8",
+    "CO2 Emissions(lbs/mile)": 0.411047645
+  },
+  {
+    "Make": "AUDI",
+    "Model": "SQ5",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "AUDI",
+    "Model": "TT COUPE QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "AUDI",
+    "Model": "TT ROADSTER QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "AUDI",
+    "Model": "TTS COUPE QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "AUDI",
+    "Model": "TTS ROADSTER QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "BENTLEY",
+    "Model": "CONTINENTAL GT",
+    "CO2 Emissions(lbs/mile)": 0.430229869
+  },
+  {
+    "Make": "BENTLEY",
+    "Model": "CONTINENTAL GTC",
+    "CO2 Emissions(lbs/mile)": 0.454892728
+  },
+  {
+    "Make": "BENTLEY",
+    "Model": "CONTINENTAL GT SPEED CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.520660351
+  },
+  {
+    "Make": "BENTLEY",
+    "Model": "FLYING SPUR",
+    "CO2 Emissions(lbs/mile)": 0.531621621
+  },
+  {
+    "Make": "BENTLEY",
+    "Model": "MULSANNE",
+    "CO2 Emissions(lbs/mile)": 0.598759403
+  },
+  {
+    "Make": "BMW",
+    "Model": "320i",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "BMW",
+    "Model": "320i xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "BMW",
+    "Model": "328d xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.247998746
+  },
+  {
+    "Make": "BMW",
+    "Model": "328d xDRIVE TOURING",
+    "CO2 Emissions(lbs/mile)": 0.247998746
+  },
+  {
+    "Make": "BMW",
+    "Model": "328i",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "BMW",
+    "Model": "328i xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "BMW",
+    "Model": "328i xDRIVE GRAN TURISMO",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "BMW",
+    "Model": "328i xDRIVE TOURING",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "BMW",
+    "Model": "335i",
+    "CO2 Emissions(lbs/mile)": 0.302805099
+  },
+  {
+    "Make": "BMW",
+    "Model": "335i xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "BMW",
+    "Model": "335i xDRIVE GRAN TURISMO",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "BMW",
+    "Model": "428i COUPE",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "BMW",
+    "Model": "428i xDRIVE COUPE",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "BMW",
+    "Model": "435i COUPE",
+    "CO2 Emissions(lbs/mile)": 0.302805099
+  },
+  {
+    "Make": "BMW",
+    "Model": "435i xDRIVE COUPE",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "BMW",
+    "Model": "528i",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "BMW",
+    "Model": "528i xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "BMW",
+    "Model": "535d xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.291843828
+  },
+  {
+    "Make": "BMW",
+    "Model": "535i xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "BMW",
+    "Model": "535i xDRIVE GRAN TURISMO",
+    "CO2 Emissions(lbs/mile)": 0.337059069
+  },
+  {
+    "Make": "BMW",
+    "Model": "550i xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.385014628
+  },
+  {
+    "Make": "BMW",
+    "Model": "550i xDRIVE GRAN TURISMO",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "BMW",
+    "Model": "640i xDRIVE GRAN COUPE",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "BMW",
+    "Model": "650i xDRIVE CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "BMW",
+    "Model": "650i xDRIVE COUPE",
+    "CO2 Emissions(lbs/mile)": 0.385014628
+  },
+  {
+    "Make": "BMW",
+    "Model": "650i xDRIVE GRAN COUPE",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "BMW",
+    "Model": "740Li xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.337059069
+  },
+  {
+    "Make": "BMW",
+    "Model": "750i xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "BMW",
+    "Model": "750Li xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "BMW",
+    "Model": "760Li",
+    "CO2 Emissions(lbs/mile)": 0.487776539
+  },
+  {
+    "Make": "BMW",
+    "Model": "ACTIVEHYBRID 3",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "BMW",
+    "Model": "ACTIVEHYBRID 5",
+    "CO2 Emissions(lbs/mile)": 0.293213987
+  },
+  {
+    "Make": "BMW",
+    "Model": "ACTIVEHYBRID 7L",
+    "CO2 Emissions(lbs/mile)": 0.290473669
+  },
+  {
+    "Make": "BMW",
+    "Model": "ALPINA B7 xDRIVE LWB",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "BMW",
+    "Model": "ALPINA B7 xDRIVE SWB",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "BMW",
+    "Model": "M5",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "BMW",
+    "Model": "M6",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "BMW",
+    "Model": "M6 CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "BMW",
+    "Model": "M6 GRAN COUPE",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "BMW",
+    "Model": "X1 xDRIVE28i",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "BMW",
+    "Model": "X1 xDRIVE35i",
+    "CO2 Emissions(lbs/mile)": 0.356241293
+  },
+  {
+    "Make": "BMW",
+    "Model": "X3 xDRIVE28i",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "BMW",
+    "Model": "X3 xDRIVE35i",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "BMW",
+    "Model": "X5 xDRIVE35i",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "BMW",
+    "Model": "X5 xDRIVE50i",
+    "CO2 Emissions(lbs/mile)": 0.438450822
+  },
+  {
+    "Make": "BMW",
+    "Model": "X6 M",
+    "CO2 Emissions(lbs/mile)": 0.506958763
+  },
+  {
+    "Make": "BMW",
+    "Model": "X6 xDRIVE35i",
+    "CO2 Emissions(lbs/mile)": 0.375423516
+  },
+  {
+    "Make": "BMW",
+    "Model": "X6 xDRIVE50i",
+    "CO2 Emissions(lbs/mile)": 0.443931457
+  },
+  {
+    "Make": "BMW",
+    "Model": "Z4 sDRIVE28i",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "BMW",
+    "Model": "Z4 sDRIVE35i",
+    "CO2 Emissions(lbs/mile)": 0.380904151
+  },
+  {
+    "Make": "BMW",
+    "Model": "Z4 sDRIVE35is",
+    "CO2 Emissions(lbs/mile)": 0.380904151
+  },
+  {
+    "Make": "BUICK",
+    "Model": "ENCLAVE",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "BUICK",
+    "Model": "ENCLAVE AWD",
+    "CO2 Emissions(lbs/mile)": 0.397346057
+  },
+  {
+    "Make": "BUICK",
+    "Model": "ENCORE",
+    "CO2 Emissions(lbs/mile)": 0.268551128
+  },
+  {
+    "Make": "BUICK",
+    "Model": "ENCORE AWD",
+    "CO2 Emissions(lbs/mile)": 0.290473669
+  },
+  {
+    "Make": "BUICK",
+    "Model": "LACROSSE",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "BUICK",
+    "Model": "LACROSSE AWD",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "BUICK",
+    "Model": "LACROSSE eASSIST",
+    "CO2 Emissions(lbs/mile)": 0.258960017
+  },
+  {
+    "Make": "BUICK",
+    "Model": "REGAL",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "BUICK",
+    "Model": "REGAL AWD",
+    "CO2 Emissions(lbs/mile)": 0.337059069
+  },
+  {
+    "Make": "BUICK",
+    "Model": "REGAL eASSIST",
+    "CO2 Emissions(lbs/mile)": 0.258960017
+  },
+  {
+    "Make": "BUICK",
+    "Model": "VERANO",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "ATS",
+    "CO2 Emissions(lbs/mile)": 0.302805099
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "ATS AWD",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CTS COUPE",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CTS COUPE AWD",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CTS SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CTS SEDAN AWD",
+    "CO2 Emissions(lbs/mile)": 0.339799387
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CTS SEDAN Vsport",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CTS SPORT WAGON",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CTS SPORT WAGON AWD",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CTS-V COUPE",
+    "CO2 Emissions(lbs/mile)": 0.523400668
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CTS-V SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.523400668
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CTS-V SPORT WAGON",
+    "CO2 Emissions(lbs/mile)": 0.523400668
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "ESCALADE AWD",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "ESCALADE ESV AWD",
+    "CO2 Emissions(lbs/mile)": 0.516549874
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "SRX",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "SRX AWD",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "XTS",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "XTS AWD",
+    "CO2 Emissions(lbs/mile)": 0.37131304
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "XTS Vsport AWD",
+    "CO2 Emissions(lbs/mile)": 0.397346057
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CAMARO",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CAMARO 2LS",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CAMARO SS",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CAMARO ZL1",
+    "CO2 Emissions(lbs/mile)": 0.523400668
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CORVETTE",
+    "CO2 Emissions(lbs/mile)": 0.378163834
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CRUZE",
+    "CO2 Emissions(lbs/mile)": 0.245258428
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CRUZE DIESEL",
+    "CO2 Emissions(lbs/mile)": 0.263070493
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CRUZE ECO",
+    "CO2 Emissions(lbs/mile)": 0.242518111
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "EQUINOX",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "EQUINOX AWD",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "EXPRESS 1500 CARGO",
+    "CO2 Emissions(lbs/mile)": 0.47544511
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "EXPRESS 1500 CARGO AWD",
+    "CO2 Emissions(lbs/mile)": 0.520660351
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "EXPRESS 1500 CARGO CONV",
+    "CO2 Emissions(lbs/mile)": 0.520660351
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "EXPRESS 1500 CARGO CONV AWD",
+    "CO2 Emissions(lbs/mile)": 0.520660351
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "EXPRESS 1500 PASSENGER",
+    "CO2 Emissions(lbs/mile)": 0.520660351
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "EXPRESS 1500 PASSENGER AWD",
+    "CO2 Emissions(lbs/mile)": 0.520660351
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "EXPRESS 2500 PASSENGER",
+    "CO2 Emissions(lbs/mile)": 0.567245751
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "EXPRESS 3500 PASSENGER",
+    "CO2 Emissions(lbs/mile)": 0.574096545
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "IMPALA",
+    "CO2 Emissions(lbs/mile)": 0.302805099
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "IMPALA ECO",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "MALIBU",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "ORLANDO",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "SILVERADO",
+    "CO2 Emissions(lbs/mile)": 0.37131304
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "SILVERADO 4WD",
+    "CO2 Emissions(lbs/mile)": 0.397346057
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "SONIC",
+    "CO2 Emissions(lbs/mile)": 0.252109222
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "SONIC RS",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "SONIC 5",
+    "CO2 Emissions(lbs/mile)": 0.252109222
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "SONIC 5 RS",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "SPARK",
+    "CO2 Emissions(lbs/mile)": 0.217855252
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "SUBURBAN",
+    "CO2 Emissions(lbs/mile)": 0.434340345
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "SUBURBAN 4WD",
+    "CO2 Emissions(lbs/mile)": 0.434340345
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "TAHOE",
+    "CO2 Emissions(lbs/mile)": 0.434340345
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "TAHOE 4WD",
+    "CO2 Emissions(lbs/mile)": 0.434340345
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "TRAVERSE",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "TRAVERSE AWD",
+    "CO2 Emissions(lbs/mile)": 0.397346057
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "TRAX",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "TRAX AWD",
+    "CO2 Emissions(lbs/mile)": 0.283622875
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": 300,
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "200 CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "200 CONVERTIBLE FFV",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "200 SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.308285734
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "200 SEDAN FFV",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "300 (MDS)",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "300 AWD",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "300 AWD (MDS)",
+    "CO2 Emissions(lbs/mile)": 0.422008916
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "300 AWD FFV",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "300 FFV",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "300 SRT (MDS)",
+    "CO2 Emissions(lbs/mile)": 0.434340345
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "TOWN & COUNTRY FFV",
+    "CO2 Emissions(lbs/mile)": 0.378163834
+  },
+  {
+    "Make": "DODGE",
+    "Model": "AVENGER",
+    "CO2 Emissions(lbs/mile)": 0.308285734
+  },
+  {
+    "Make": "DODGE",
+    "Model": "AVENGER FFV",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHALLENGER",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHALLENGER (MDS)",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHALLENGER SRT",
+    "CO2 Emissions(lbs/mile)": 0.438450822
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHALLENGER SRT (MDS)",
+    "CO2 Emissions(lbs/mile)": 0.434340345
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHARGER",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHARGER (MDS)",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHARGER AWD",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHARGER AWD (MDS)",
+    "CO2 Emissions(lbs/mile)": 0.422008916
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHARGER AWD FFV",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHARGER FFV",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHARGER SRT (MDS)",
+    "CO2 Emissions(lbs/mile)": 0.434340345
+  },
+  {
+    "Make": "DODGE",
+    "Model": "DART",
+    "CO2 Emissions(lbs/mile)": 0.25484954
+  },
+  {
+    "Make": "DODGE",
+    "Model": "DART FFV",
+    "CO2 Emissions(lbs/mile)": 0.271291446
+  },
+  {
+    "Make": "DODGE",
+    "Model": "DART GT",
+    "CO2 Emissions(lbs/mile)": 0.290473669
+  },
+  {
+    "Make": "DODGE",
+    "Model": "DART TURBO AERO",
+    "CO2 Emissions(lbs/mile)": 0.230186681
+  },
+  {
+    "Make": "DODGE",
+    "Model": "DURANGO AWD (MDS)",
+    "CO2 Emissions(lbs/mile)": 0.453522569
+  },
+  {
+    "Make": "DODGE",
+    "Model": "DURANGO AWD FFV",
+    "CO2 Emissions(lbs/mile)": 0.380904151
+  },
+  {
+    "Make": "DODGE",
+    "Model": "GRAND CARAVAN FFV",
+    "CO2 Emissions(lbs/mile)": 0.37131304
+  },
+  {
+    "Make": "DODGE",
+    "Model": "JOURNEY",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "DODGE",
+    "Model": "JOURNEY AWD",
+    "CO2 Emissions(lbs/mile)": 0.390495263
+  },
+  {
+    "Make": "DODGE",
+    "Model": "JOURNEY FFV",
+    "CO2 Emissions(lbs/mile)": 0.378163834
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500 ABARTH CABRIO",
+    "CO2 Emissions(lbs/mile)": 0.245258428
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500 ABARTH HATCHBACK",
+    "CO2 Emissions(lbs/mile)": 0.245258428
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500 CABRIO",
+    "CO2 Emissions(lbs/mile)": 0.249368905
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500 CABRIO TURBO",
+    "CO2 Emissions(lbs/mile)": 0.245258428
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500 HATCHBACK",
+    "CO2 Emissions(lbs/mile)": 0.249368905
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500 HATCHBACK TURBO",
+    "CO2 Emissions(lbs/mile)": 0.245258428
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500L TURBO",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "FORD",
+    "Model": "C-MAX HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.189081917
+  },
+  {
+    "Make": "FORD",
+    "Model": "E150 VAN FFV",
+    "CO2 Emissions(lbs/mile)": 0.511069239
+  },
+  {
+    "Make": "FORD",
+    "Model": "E150 WAGON FFV",
+    "CO2 Emissions(lbs/mile)": 0.528881304
+  },
+  {
+    "Make": "FORD",
+    "Model": "E350 WAGON",
+    "CO2 Emissions(lbs/mile)": 0.668637503
+  },
+  {
+    "Make": "FORD",
+    "Model": "E350 WAGON FFV",
+    "CO2 Emissions(lbs/mile)": 0.576836862
+  },
+  {
+    "Make": "FORD",
+    "Model": "EDGE",
+    "CO2 Emissions(lbs/mile)": 0.308285734
+  },
+  {
+    "Make": "FORD",
+    "Model": "EDGE AWD",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "FORD",
+    "Model": "ESCAPE",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "FORD",
+    "Model": "ESCAPE AWD",
+    "CO2 Emissions(lbs/mile)": 0.293213987
+  },
+  {
+    "Make": "FORD",
+    "Model": "EXPEDITION 4X4 FFV",
+    "CO2 Emissions(lbs/mile)": 0.504218445
+  },
+  {
+    "Make": "FORD",
+    "Model": "EXPLORER",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "FORD",
+    "Model": "EXPLORER AWD",
+    "CO2 Emissions(lbs/mile)": 0.409677487
+  },
+  {
+    "Make": "FORD",
+    "Model": "EXPLORER FFV",
+    "CO2 Emissions(lbs/mile)": 0.375423516
+  },
+  {
+    "Make": "FORD",
+    "Model": "EXPLORER FFV AWD",
+    "CO2 Emissions(lbs/mile)": 0.39460574
+  },
+  {
+    "Make": "FORD",
+    "Model": "F-150",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "FORD",
+    "Model": "F-150 4X4",
+    "CO2 Emissions(lbs/mile)": 0.434340345
+  },
+  {
+    "Make": "FORD",
+    "Model": "F-150 FFV",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "FORD",
+    "Model": "F-150 FFV 4X4",
+    "CO2 Emissions(lbs/mile)": 0.422008916
+  },
+  {
+    "Make": "FORD",
+    "Model": "F-150 RAPTOR 4X4",
+    "CO2 Emissions(lbs/mile)": 0.567245751
+  },
+  {
+    "Make": "FORD",
+    "Model": "FIESTA",
+    "CO2 Emissions(lbs/mile)": 0.239777793
+  },
+  {
+    "Make": "FORD",
+    "Model": "FIESTA SFE",
+    "CO2 Emissions(lbs/mile)": 0.20826414
+  },
+  {
+    "Make": "FORD",
+    "Model": "FIESTA ST",
+    "CO2 Emissions(lbs/mile)": 0.252109222
+  },
+  {
+    "Make": "FORD",
+    "Model": "FLEX",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "FORD",
+    "Model": "FLEX AWD",
+    "CO2 Emissions(lbs/mile)": 0.380904151
+  },
+  {
+    "Make": "FORD",
+    "Model": "FLEX AWD (EcoBoost)",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "FORD",
+    "Model": "FOCUS",
+    "CO2 Emissions(lbs/mile)": 0.280882558
+  },
+  {
+    "Make": "FORD",
+    "Model": "FOCUS FFV",
+    "CO2 Emissions(lbs/mile)": 0.242518111
+  },
+  {
+    "Make": "FORD",
+    "Model": "FOCUS SFE FFV",
+    "CO2 Emissions(lbs/mile)": 0.227446364
+  },
+  {
+    "Make": "FORD",
+    "Model": "FUSION",
+    "CO2 Emissions(lbs/mile)": 0.268551128
+  },
+  {
+    "Make": "FORD",
+    "Model": "FUSION (Start/Stop)",
+    "CO2 Emissions(lbs/mile)": 0.25484954
+  },
+  {
+    "Make": "FORD",
+    "Model": "FUSION AWD",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "FORD",
+    "Model": "FUSION HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.172640011
+  },
+  {
+    "Make": "FORD",
+    "Model": "MUSTANG",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "FORD",
+    "Model": "MUSTANG CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "FORD",
+    "Model": "TAURUS",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "FORD",
+    "Model": "TAURUS AWD",
+    "CO2 Emissions(lbs/mile)": 0.37131304
+  },
+  {
+    "Make": "FORD",
+    "Model": "TAURUS FFV",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "FORD",
+    "Model": "TAURUS FFV AWD",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "FORD",
+    "Model": "TRANSIT CONNECT",
+    "CO2 Emissions(lbs/mile)": 0.298694622
+  },
+  {
+    "Make": "FORD",
+    "Model": "TRANSIT CONNECT TAXI",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "FORD",
+    "Model": "TRANSIT CONNECT WAGON",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "GMC",
+    "Model": "ACADIA",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "GMC",
+    "Model": "ACADIA AWD",
+    "CO2 Emissions(lbs/mile)": 0.406937169
+  },
+  {
+    "Make": "GMC",
+    "Model": "SAVANA 1500 CARGO",
+    "CO2 Emissions(lbs/mile)": 0.47544511
+  },
+  {
+    "Make": "GMC",
+    "Model": "SAVANA 1500 CARGO AWD",
+    "CO2 Emissions(lbs/mile)": 0.520660351
+  },
+  {
+    "Make": "GMC",
+    "Model": "SAVANA 1500 CARGO CONV",
+    "CO2 Emissions(lbs/mile)": 0.520660351
+  },
+  {
+    "Make": "GMC",
+    "Model": "SAVANA 1500 CARGO CONV AWD",
+    "CO2 Emissions(lbs/mile)": 0.520660351
+  },
+  {
+    "Make": "GMC",
+    "Model": "SAVANA 1500 PASSENGER",
+    "CO2 Emissions(lbs/mile)": 0.520660351
+  },
+  {
+    "Make": "GMC",
+    "Model": "SAVANA 1500 PASSENGER AWD",
+    "CO2 Emissions(lbs/mile)": 0.520660351
+  },
+  {
+    "Make": "GMC",
+    "Model": "SAVANA 2500 PASSENGER",
+    "CO2 Emissions(lbs/mile)": 0.567245751
+  },
+  {
+    "Make": "GMC",
+    "Model": "SAVANA 3500 PASSENGER",
+    "CO2 Emissions(lbs/mile)": 0.574096545
+  },
+  {
+    "Make": "GMC",
+    "Model": "SIERRA",
+    "CO2 Emissions(lbs/mile)": 0.37131304
+  },
+  {
+    "Make": "GMC",
+    "Model": "SIERRA 4WD",
+    "CO2 Emissions(lbs/mile)": 0.397346057
+  },
+  {
+    "Make": "GMC",
+    "Model": "TERRAIN",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "GMC",
+    "Model": "TERRAIN AWD",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "GMC",
+    "Model": "YUKON",
+    "CO2 Emissions(lbs/mile)": 0.434340345
+  },
+  {
+    "Make": "GMC",
+    "Model": "YUKON 4WD",
+    "CO2 Emissions(lbs/mile)": 0.434340345
+  },
+  {
+    "Make": "GMC",
+    "Model": "YUKON DENALI AWD",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "GMC",
+    "Model": "YUKON DENALI XL AWD",
+    "CO2 Emissions(lbs/mile)": 0.516549874
+  },
+  {
+    "Make": "GMC",
+    "Model": "YUKON XL",
+    "CO2 Emissions(lbs/mile)": 0.434340345
+  },
+  {
+    "Make": "GMC",
+    "Model": "YUKON XL 4WD",
+    "CO2 Emissions(lbs/mile)": 0.434340345
+  },
+  {
+    "Make": "HONDA",
+    "Model": "ACCORD",
+    "CO2 Emissions(lbs/mile)": 0.249368905
+  },
+  {
+    "Make": "HONDA",
+    "Model": "ACCORD HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.15071747
+  },
+  {
+    "Make": "HONDA",
+    "Model": "CIVIC",
+    "CO2 Emissions(lbs/mile)": 0.22059557
+  },
+  {
+    "Make": "HONDA",
+    "Model": "CROSSTOUR AWD",
+    "CO2 Emissions(lbs/mile)": 0.337059069
+  },
+  {
+    "Make": "HONDA",
+    "Model": "CR-V",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "HONDA",
+    "Model": "CR-V AWD",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "HONDA",
+    "Model": "CR-Z",
+    "CO2 Emissions(lbs/mile)": 0.198673029
+  },
+  {
+    "Make": "HONDA",
+    "Model": "FIT",
+    "CO2 Emissions(lbs/mile)": 0.235667317
+  },
+  {
+    "Make": "HONDA",
+    "Model": "ODYSSEY",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "HONDA",
+    "Model": "PILOT",
+    "CO2 Emissions(lbs/mile)": 0.363092087
+  },
+  {
+    "Make": "HONDA",
+    "Model": "PILOT AWD",
+    "CO2 Emissions(lbs/mile)": 0.378163834
+  },
+  {
+    "Make": "HONDA",
+    "Model": "RIDGELINE AWD",
+    "CO2 Emissions(lbs/mile)": 0.422008916
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "ACCENT",
+    "CO2 Emissions(lbs/mile)": 0.242518111
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "ELANTRA GT",
+    "CO2 Emissions(lbs/mile)": 0.271291446
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "EQUUS",
+    "CO2 Emissions(lbs/mile)": 0.416528281
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "GENESIS",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "SANTA FE",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "SANTA FE 4WD",
+    "CO2 Emissions(lbs/mile)": 0.365832404
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "SANTA FE SPORT",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "SANTA FE SPORT 4WD",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "SONATA",
+    "CO2 Emissions(lbs/mile)": 0.302805099
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "SONATA HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.195932711
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "SONATA HYBRID LIMITED",
+    "CO2 Emissions(lbs/mile)": 0.198673029
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "TUCSON",
+    "CO2 Emissions(lbs/mile)": 0.293213987
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "TUCSON 4WD",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "VELOSTER",
+    "CO2 Emissions(lbs/mile)": 0.242518111
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "VELOSTER TURBO",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q50",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q50 AWD",
+    "CO2 Emissions(lbs/mile)": 0.339799387
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q50 HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.235667317
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q50 HYBRID AWD",
+    "CO2 Emissions(lbs/mile)": 0.258960017
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q60 AWD COUPE",
+    "CO2 Emissions(lbs/mile)": 0.363092087
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q60 CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.368572722
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q60 COUPE",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q70",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q70 AWD",
+    "CO2 Emissions(lbs/mile)": 0.365832404
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q70 HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.239777793
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "QX50 AWD",
+    "CO2 Emissions(lbs/mile)": 0.37131304
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "QX60",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "QX60 AWD",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "QX60 HYBRID AWD",
+    "CO2 Emissions(lbs/mile)": 0.268551128
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "QX70 AWD",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "QX80 4WD",
+    "CO2 Emissions(lbs/mile)": 0.472704792
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE S CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE V8 S CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XF",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XF 3.0L AWD",
+    "CO2 Emissions(lbs/mile)": 0.385014628
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XFR",
+    "CO2 Emissions(lbs/mile)": 0.419268598
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XFR-S",
+    "CO2 Emissions(lbs/mile)": 0.419268598
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XJ AWD",
+    "CO2 Emissions(lbs/mile)": 0.390495263
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XJ SUPERCHARGED",
+    "CO2 Emissions(lbs/mile)": 0.419268598
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XJL AWD PORTFOLIO",
+    "CO2 Emissions(lbs/mile)": 0.390495263
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XJL SUPERCHARGED",
+    "CO2 Emissions(lbs/mile)": 0.419268598
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XJR",
+    "CO2 Emissions(lbs/mile)": 0.419268598
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XJR LWB",
+    "CO2 Emissions(lbs/mile)": 0.419268598
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XK CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.412417804
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XK COUPE",
+    "CO2 Emissions(lbs/mile)": 0.397346057
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XKR CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.431600028
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XKR COUPE",
+    "CO2 Emissions(lbs/mile)": 0.424749234
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XKR-S CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.431600028
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XKR-S COUPE",
+    "CO2 Emissions(lbs/mile)": 0.424749234
+  },
+  {
+    "Make": "JEEP",
+    "Model": "CHEROKEE",
+    "CO2 Emissions(lbs/mile)": 0.298694622
+  },
+  {
+    "Make": "JEEP",
+    "Model": "CHEROKEE 4X4",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "JEEP",
+    "Model": "CHEROKEE 4X4 ACTIVE DRIVE II",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "JEEP",
+    "Model": "CHEROKEE TRAILHAWK 4X4",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "JEEP",
+    "Model": "COMPASS",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "JEEP",
+    "Model": "COMPASS 4X4",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "JEEP",
+    "Model": "COMPASS 4X4 TRAIL RATED",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "JEEP",
+    "Model": "GRAND CHEROKEE 4X4 (MDS)",
+    "CO2 Emissions(lbs/mile)": 0.465853998
+  },
+  {
+    "Make": "JEEP",
+    "Model": "GRAND CHEROKEE 4X4 DIESEL",
+    "CO2 Emissions(lbs/mile)": 0.365832404
+  },
+  {
+    "Make": "JEEP",
+    "Model": "GRAND CHEROKEE 4X4 FFV",
+    "CO2 Emissions(lbs/mile)": 0.380904151
+  },
+  {
+    "Make": "JEEP",
+    "Model": "GRAND CHEROKEE SRT 4X4 (MDS)",
+    "CO2 Emissions(lbs/mile)": 0.497367651
+  },
+  {
+    "Make": "JEEP",
+    "Model": "PATRIOT",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "JEEP",
+    "Model": "PATRIOT 4X4",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "JEEP",
+    "Model": "PATRIOT 4X4 TRAIL RATED",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "JEEP",
+    "Model": "WRANGLER 4X4 (2-DOOR)",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "JEEP",
+    "Model": "WRANGLER UNLIMITED 4X4 (4-DOOR)",
+    "CO2 Emissions(lbs/mile)": 0.422008916
+  },
+  {
+    "Make": "KIA",
+    "Model": "CADENZA",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "KIA",
+    "Model": "FORTE",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "KIA",
+    "Model": "FORTE 5",
+    "CO2 Emissions(lbs/mile)": 0.305545416
+  },
+  {
+    "Make": "KIA",
+    "Model": "FORTE KOUP",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "KIA",
+    "Model": "OPTIMA",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "KIA",
+    "Model": "OPTIMA HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.195932711
+  },
+  {
+    "Make": "KIA",
+    "Model": "OPTIMA HYBRID EX",
+    "CO2 Emissions(lbs/mile)": 0.201413346
+  },
+  {
+    "Make": "KIA",
+    "Model": "RIO",
+    "CO2 Emissions(lbs/mile)": 0.239777793
+  },
+  {
+    "Make": "KIA",
+    "Model": "RIO ECO",
+    "CO2 Emissions(lbs/mile)": 0.239777793
+  },
+  {
+    "Make": "KIA",
+    "Model": "RONDO",
+    "CO2 Emissions(lbs/mile)": 0.290473669
+  },
+  {
+    "Make": "KIA",
+    "Model": "SEDONA",
+    "CO2 Emissions(lbs/mile)": 0.378163834
+  },
+  {
+    "Make": "KIA",
+    "Model": "SORENTO",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "KIA",
+    "Model": "SORENTO 4WD",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "KIA",
+    "Model": "SOUL",
+    "CO2 Emissions(lbs/mile)": 0.280882558
+  },
+  {
+    "Make": "KIA",
+    "Model": "SOUL ECO Dynamics",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "KIA",
+    "Model": "SPORTAGE",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "KIA",
+    "Model": "SPORTAGE AWD",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "AVENTADOR COUPE",
+    "CO2 Emissions(lbs/mile)": 0.576836862
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "GALLARDO COUPE",
+    "CO2 Emissions(lbs/mile)": 0.494627333
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "LR2",
+    "CO2 Emissions(lbs/mile)": 0.375423516
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "LR4",
+    "CO2 Emissions(lbs/mile)": 0.457633045
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER EVOQUE",
+    "CO2 Emissions(lbs/mile)": 0.308285734
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER EVOQUE COUPE",
+    "CO2 Emissions(lbs/mile)": 0.308285734
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER LWB V8 5.0 SC",
+    "CO2 Emissions(lbs/mile)": 0.485036222
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER LWB V8 5.0 SC FFV",
+    "CO2 Emissions(lbs/mile)": 0.47544511
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER SPORT V6 3.0 SC",
+    "CO2 Emissions(lbs/mile)": 0.390495263
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER SPORT V6 3.0 SC FFV",
+    "CO2 Emissions(lbs/mile)": 0.390495263
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER SPORT V8 5.0 SC",
+    "CO2 Emissions(lbs/mile)": 0.472704792
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER SPORT V8 5.0 SC FFV",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER V6 3.0 SC",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER V6 3.0 SC FFV",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER V8 5.0 SC",
+    "CO2 Emissions(lbs/mile)": 0.485036222
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER V8 5.0 SC FFV",
+    "CO2 Emissions(lbs/mile)": 0.47544511
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "CT 200h",
+    "CO2 Emissions(lbs/mile)": 0.176750488
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "ES 300h",
+    "CO2 Emissions(lbs/mile)": 0.189081917
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "ES 350",
+    "CO2 Emissions(lbs/mile)": 0.302805099
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "GS 350",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "GS 350 AWD",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "GS 450h",
+    "CO2 Emissions(lbs/mile)": 0.239777793
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "GX 460",
+    "CO2 Emissions(lbs/mile)": 0.438450822
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "IS 250",
+    "CO2 Emissions(lbs/mile)": 0.305545416
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "IS 250 AWD",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "IS 250 C",
+    "CO2 Emissions(lbs/mile)": 0.305545416
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "IS 350",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "IS 350 AWD",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "IS 350 C",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "IS F",
+    "CO2 Emissions(lbs/mile)": 0.397346057
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "LS 460",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "LS 460 AWD",
+    "CO2 Emissions(lbs/mile)": 0.406937169
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "LS 460 L AWD",
+    "CO2 Emissions(lbs/mile)": 0.406937169
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "LS 600h L",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "LX 570",
+    "CO2 Emissions(lbs/mile)": 0.520660351
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "RX 350 AWD",
+    "CO2 Emissions(lbs/mile)": 0.368572722
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "RX 450h AWD",
+    "CO2 Emissions(lbs/mile)": 0.258960017
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "MKS AWD",
+    "CO2 Emissions(lbs/mile)": 0.37131304
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "MKT AWD",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "MKT LIVERY",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "MKT LIVERY AWD",
+    "CO2 Emissions(lbs/mile)": 0.385014628
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "MKX AWD",
+    "CO2 Emissions(lbs/mile)": 0.385014628
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "MKZ",
+    "CO2 Emissions(lbs/mile)": 0.283622875
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "MKZ AWD",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "MKZ HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.198673029
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "NAVIGATOR 4X4 FFV",
+    "CO2 Emissions(lbs/mile)": 0.504218445
+  },
+  {
+    "Make": "MASERATI",
+    "Model": "GHIBLI",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "MASERATI",
+    "Model": "GHIBLI AWD",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "MASERATI",
+    "Model": "GRANTURISMO",
+    "CO2 Emissions(lbs/mile)": 0.47544511
+  },
+  {
+    "Make": "MASERATI",
+    "Model": "GRANTURISMO CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.482295904
+  },
+  {
+    "Make": "MASERATI",
+    "Model": "QUATTROPORTE GTS",
+    "CO2 Emissions(lbs/mile)": 0.457633045
+  },
+  {
+    "Make": "MASERATI",
+    "Model": "QUATTROPORTE SQ4",
+    "CO2 Emissions(lbs/mile)": 0.412417804
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-5",
+    "CO2 Emissions(lbs/mile)": 0.258960017
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-5 4WD",
+    "CO2 Emissions(lbs/mile)": 0.268551128
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-9",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-9 4WD",
+    "CO2 Emissions(lbs/mile)": 0.397346057
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MAZDA2",
+    "CO2 Emissions(lbs/mile)": 0.242518111
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MAZDA3 4-DOOR",
+    "CO2 Emissions(lbs/mile)": 0.217855252
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MAZDA3 4-DOOR (i-ELOOP)",
+    "CO2 Emissions(lbs/mile)": 0.230186681
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MAZDA3 4-DOOR (SIL)",
+    "CO2 Emissions(lbs/mile)": 0.22059557
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MAZDA3 5-DOOR",
+    "CO2 Emissions(lbs/mile)": 0.223335887
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MAZDA3 5-DOOR (i-ELOOP)",
+    "CO2 Emissions(lbs/mile)": 0.230186681
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MAZDA3 5-DOOR (SIL)",
+    "CO2 Emissions(lbs/mile)": 0.227446364
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MAZDA5",
+    "CO2 Emissions(lbs/mile)": 0.305545416
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MAZDA6",
+    "CO2 Emissions(lbs/mile)": 0.239777793
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MAZDA6 (i-ELOOP)",
+    "CO2 Emissions(lbs/mile)": 0.230186681
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MX-5",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "B 250",
+    "CO2 Emissions(lbs/mile)": 0.252109222
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "C 250",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "C 250 COUPE",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "C 300 4MATIC FFV",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "C 350",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "C 350 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "C 350 4MATIC COUPE",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "C 350 COUPE",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "C 63 AMG",
+    "CO2 Emissions(lbs/mile)": 0.47544511
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "C 63 AMG COUPE",
+    "CO2 Emissions(lbs/mile)": 0.482295904
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "CL 550 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.416528281
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "CL 63 AMG",
+    "CO2 Emissions(lbs/mile)": 0.422008916
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "CLA 250",
+    "CO2 Emissions(lbs/mile)": 0.245258428
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "CLA 45 AMG 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.290473669
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "CLS 550 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "CLS 63 AMG 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.412417804
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "CLS 63 AMG S 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.412417804
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 250 BLUETEC 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.265810811
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 300 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 350 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 350 4MATIC COUPE",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 350 4MATIC WAGON",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 350 CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 350 COUPE",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 400 HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 550 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.365832404
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 550 CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.368572722
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 550 COUPE",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 63 AMG 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.406937169
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 63 AMG 4MATIC WAGON",
+    "CO2 Emissions(lbs/mile)": 0.424749234
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 63 AMG S 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.406937169
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 63 AMG S 4MATIC WAGON",
+    "CO2 Emissions(lbs/mile)": 0.424749234
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "G 550",
+    "CO2 Emissions(lbs/mile)": 0.574096545
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "G 63 AMG",
+    "CO2 Emissions(lbs/mile)": 0.557654639
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GL 350 BLUETEC 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.443931457
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GL 450 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.479555586
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GL 550 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.491887016
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GL 63 AMG",
+    "CO2 Emissions(lbs/mile)": 0.497367651
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GLK 250 BLUETEC 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GLK 350 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.356241293
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "ML 350 4MATIC FFV",
+    "CO2 Emissions(lbs/mile)": 0.380904151
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "ML 350 BLUETEC 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.380904151
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "ML 550 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.448041933
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "ML 63 AMG 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.487776539
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "S 550 4MATIC LWB",
+    "CO2 Emissions(lbs/mile)": 0.380904151
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "S 550 4MATIC SWB",
+    "CO2 Emissions(lbs/mile)": 0.378163834
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "S 63 AMG 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.416528281
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "SL 550",
+    "CO2 Emissions(lbs/mile)": 0.368572722
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "SL 63 AMG",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "SL 65 AMG",
+    "CO2 Emissions(lbs/mile)": 0.448041933
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "SLK 250",
+    "CO2 Emissions(lbs/mile)": 0.280882558
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "SLK 350",
+    "CO2 Emissions(lbs/mile)": 0.308285734
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "SLK 55 AMG",
+    "CO2 Emissions(lbs/mile)": 0.337059069
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "SLS AMG BLACK SERIES COUPE",
+    "CO2 Emissions(lbs/mile)": 0.520660351
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "SLS AMG GT COUPE",
+    "CO2 Emissions(lbs/mile)": 0.494627333
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "SLS AMG ROADSTER",
+    "CO2 Emissions(lbs/mile)": 0.494627333
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER CLUBMAN",
+    "CO2 Emissions(lbs/mile)": 0.245258428
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.245258428
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER COUNTRYMAN",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER COUPE",
+    "CO2 Emissions(lbs/mile)": 0.239777793
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER PACEMAN",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER ROADSTER",
+    "CO2 Emissions(lbs/mile)": 0.245258428
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER S CLUBMAN",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER S CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER S COUNTRYMAN ALL4",
+    "CO2 Emissions(lbs/mile)": 0.283622875
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER S COUPE",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER S PACEMAN ALL4",
+    "CO2 Emissions(lbs/mile)": 0.283622875
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER S ROADSTER",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "MINI",
+    "Model": "JOHN COOPER WORKS CLUBMAN",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "MINI",
+    "Model": "JOHN COOPER WORKS CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "MINI",
+    "Model": "JOHN COOPER WORKS COUNTRYMAN ALL4",
+    "CO2 Emissions(lbs/mile)": 0.283622875
+  },
+  {
+    "Make": "MINI",
+    "Model": "JOHN COOPER WORKS COUPE",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "MINI",
+    "Model": "JOHN COOPER WORKS PACEMAN ALL4",
+    "CO2 Emissions(lbs/mile)": 0.283622875
+  },
+  {
+    "Make": "MINI",
+    "Model": "JOHN COOPER WORKS ROADSTER",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "MITSUBISHI",
+    "Model": "LANCER",
+    "CO2 Emissions(lbs/mile)": 0.258960017
+  },
+  {
+    "Make": "MITSUBISHI",
+    "Model": "LANCER AWD",
+    "CO2 Emissions(lbs/mile)": 0.298694622
+  },
+  {
+    "Make": "MITSUBISHI",
+    "Model": "LANCER EVOLUTION",
+    "CO2 Emissions(lbs/mile)": 0.39460574
+  },
+  {
+    "Make": "MITSUBISHI",
+    "Model": "LANCER RALLIART",
+    "CO2 Emissions(lbs/mile)": 0.365832404
+  },
+  {
+    "Make": "MITSUBISHI",
+    "Model": "LANCER SPORTBACK",
+    "CO2 Emissions(lbs/mile)": 0.271291446
+  },
+  {
+    "Make": "MITSUBISHI",
+    "Model": "MIRAGE",
+    "CO2 Emissions(lbs/mile)": 0.189081917
+  },
+  {
+    "Make": "MITSUBISHI",
+    "Model": "OUTLANDER",
+    "CO2 Emissions(lbs/mile)": 0.271291446
+  },
+  {
+    "Make": "MITSUBISHI",
+    "Model": "OUTLANDER 4WD",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "MITSUBISHI",
+    "Model": "RVR",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "MITSUBISHI",
+    "Model": "RVR 4WD",
+    "CO2 Emissions(lbs/mile)": 0.283622875
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "370Z",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "370Z ROADSTER",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "ALTIMA",
+    "CO2 Emissions(lbs/mile)": 0.239777793
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "ARMADA 4WD",
+    "CO2 Emissions(lbs/mile)": 0.520660351
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "FRONTIER",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "FRONTIER 4WD",
+    "CO2 Emissions(lbs/mile)": 0.431600028
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "GT-R",
+    "CO2 Emissions(lbs/mile)": 0.406937169
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "JUKE",
+    "CO2 Emissions(lbs/mile)": 0.25484954
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "JUKE AWD",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "MAXIMA",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "MURANO AWD",
+    "CO2 Emissions(lbs/mile)": 0.37131304
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "NV200 CARGO VAN",
+    "CO2 Emissions(lbs/mile)": 0.293213987
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "PATHFINDER",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "PATHFINDER 4WD",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "PATHFINDER HYBRID 4WD",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "QUEST",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "ROGUE",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "ROGUE AWD",
+    "CO2 Emissions(lbs/mile)": 0.271291446
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "SENTRA",
+    "CO2 Emissions(lbs/mile)": 0.22059557
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "TITAN",
+    "CO2 Emissions(lbs/mile)": 0.491887016
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "TITAN 4WD",
+    "CO2 Emissions(lbs/mile)": 0.54532321
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "VERSA",
+    "CO2 Emissions(lbs/mile)": 0.20826414
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "XTERRA 4WD",
+    "CO2 Emissions(lbs/mile)": 0.448041933
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 CARRERA",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 CARRERA 4",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 CARRERA 4 CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 CARRERA 4S",
+    "CO2 Emissions(lbs/mile)": 0.339799387
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 CARRERA 4S CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 CARRERA CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 CARRERA S",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 CARRERA S CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.337059069
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 GT3",
+    "CO2 Emissions(lbs/mile)": 0.441191139
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 TURBO",
+    "CO2 Emissions(lbs/mile)": 0.375423516
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 TURBO CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.375423516
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 TURBO S",
+    "CO2 Emissions(lbs/mile)": 0.375423516
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 TURBO S CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.375423516
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "BOXSTER",
+    "CO2 Emissions(lbs/mile)": 0.290473669
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "BOXSTER S",
+    "CO2 Emissions(lbs/mile)": 0.308285734
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "CAYENNE",
+    "CO2 Emissions(lbs/mile)": 0.397346057
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "CAYENNE DIESEL (modified)",
+    "CO2 Emissions(lbs/mile)": 0.379533993
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "CAYENNE GTS",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "CAYENNE S",
+    "CO2 Emissions(lbs/mile)": 0.424749234
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "CAYENNE S HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "CAYENNE TURBO",
+    "CO2 Emissions(lbs/mile)": 0.446671775
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "CAYENNE TURBO S",
+    "CO2 Emissions(lbs/mile)": 0.490516857
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "CAYMAN",
+    "CO2 Emissions(lbs/mile)": 0.290473669
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "CAYMAN S",
+    "CO2 Emissions(lbs/mile)": 0.308285734
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "PANAMERA",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "PANAMERA 4",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "PANAMERA 4S",
+    "CO2 Emissions(lbs/mile)": 0.356241293
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "PANAMERA 4S EXECUTIVE",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "PANAMERA GTS",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "PANAMERA S",
+    "CO2 Emissions(lbs/mile)": 0.356241293
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "PANAMERA TURBO",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "PANAMERA TURBO EXECUTIVE",
+    "CO2 Emissions(lbs/mile)": 0.406937169
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 (MDS)",
+    "CO2 Emissions(lbs/mile)": 0.465853998
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 4X4 (MDS)",
+    "CO2 Emissions(lbs/mile)": 0.485036222
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 4X4 DIESEL",
+    "CO2 Emissions(lbs/mile)": 0.391865422
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 4X4 FFV",
+    "CO2 Emissions(lbs/mile)": 0.397346057
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 DIESEL",
+    "CO2 Emissions(lbs/mile)": 0.376793675
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 FFV",
+    "CO2 Emissions(lbs/mile)": 0.375423516
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 HFE",
+    "CO2 Emissions(lbs/mile)": 0.356241293
+  },
+  {
+    "Make": "RAM",
+    "Model": "CARGO VAN FFV",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "ROLLS-ROYCE",
+    "Model": "GHOST",
+    "CO2 Emissions(lbs/mile)": 0.504218445
+  },
+  {
+    "Make": "ROLLS-ROYCE",
+    "Model": "GHOST EWB",
+    "CO2 Emissions(lbs/mile)": 0.504218445
+  },
+  {
+    "Make": "ROLLS-ROYCE",
+    "Model": "PHANTOM",
+    "CO2 Emissions(lbs/mile)": 0.538472415
+  },
+  {
+    "Make": "ROLLS-ROYCE",
+    "Model": "PHANTOM COUPE",
+    "CO2 Emissions(lbs/mile)": 0.538472415
+  },
+  {
+    "Make": "ROLLS-ROYCE",
+    "Model": "PHANTOM DROPHEAD COUPE",
+    "CO2 Emissions(lbs/mile)": 0.538472415
+  },
+  {
+    "Make": "ROLLS-ROYCE",
+    "Model": "PHANTOM EWB",
+    "CO2 Emissions(lbs/mile)": 0.538472415
+  },
+  {
+    "Make": "ROLLS-ROYCE",
+    "Model": "WRAITH",
+    "CO2 Emissions(lbs/mile)": 0.491887016
+  },
+  {
+    "Make": "SCION",
+    "Model": "FR-S",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "SCION",
+    "Model": "iQ",
+    "CO2 Emissions(lbs/mile)": 0.195932711
+  },
+  {
+    "Make": "SCION",
+    "Model": "tC",
+    "CO2 Emissions(lbs/mile)": 0.283622875
+  },
+  {
+    "Make": "SCION",
+    "Model": "xB",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "SCION",
+    "Model": "xD",
+    "CO2 Emissions(lbs/mile)": 0.252109222
+  },
+  {
+    "Make": "SMART",
+    "Model": "FORTWO CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.201413346
+  },
+  {
+    "Make": "SMART",
+    "Model": "FORTWO COUPE",
+    "CO2 Emissions(lbs/mile)": 0.201413346
+  },
+  {
+    "Make": "SRT",
+    "Model": "VIPER COUPE",
+    "CO2 Emissions(lbs/mile)": 0.53299178
+  },
+  {
+    "Make": "SRT",
+    "Model": "VIPER GTS COUPE",
+    "CO2 Emissions(lbs/mile)": 0.53299178
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "BRZ",
+    "CO2 Emissions(lbs/mile)": 0.268551128
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "FORESTER AWD",
+    "CO2 Emissions(lbs/mile)": 0.298694622
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "IMPREZA AWD",
+    "CO2 Emissions(lbs/mile)": 0.245258428
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "IMPREZA WAGON AWD",
+    "CO2 Emissions(lbs/mile)": 0.245258428
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "LEGACY AWD",
+    "CO2 Emissions(lbs/mile)": 0.271291446
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "OUTBACK AWD",
+    "CO2 Emissions(lbs/mile)": 0.283622875
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "TRIBECA AWD",
+    "CO2 Emissions(lbs/mile)": 0.412417804
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "XV CROSSTREK AWD",
+    "CO2 Emissions(lbs/mile)": 0.268551128
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "XV CROSSTREK HYBRID AWD",
+    "CO2 Emissions(lbs/mile)": 0.242518111
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "4RUNNER (Part-Time 4WD)",
+    "CO2 Emissions(lbs/mile)": 0.406937169
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "4RUNNER 4WD",
+    "CO2 Emissions(lbs/mile)": 0.406937169
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "AVALON",
+    "CO2 Emissions(lbs/mile)": 0.302805099
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "CAMRY",
+    "CO2 Emissions(lbs/mile)": 0.258960017
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "CAMRY HYBRID LE",
+    "CO2 Emissions(lbs/mile)": 0.179490805
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "CAMRY HYBRID XLE/SE",
+    "CO2 Emissions(lbs/mile)": 0.189081917
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "COROLLA",
+    "CO2 Emissions(lbs/mile)": 0.242518111
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "COROLLA LE ECO (1-mode)",
+    "CO2 Emissions(lbs/mile)": 0.213744776
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "COROLLA LE ECO (2-mode)",
+    "CO2 Emissions(lbs/mile)": 0.217855252
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "COROLLA MATRIX",
+    "CO2 Emissions(lbs/mile)": 0.268551128
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "FJ CRUISER 4WD",
+    "CO2 Emissions(lbs/mile)": 0.406937169
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "HIGHLANDER",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "HIGHLANDER AWD",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "HIGHLANDER HYBRID AWD",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "HIGHLANDER HYBRID AWD LE",
+    "CO2 Emissions(lbs/mile)": 0.258960017
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "PRIUS",
+    "CO2 Emissions(lbs/mile)": 0.15071747
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "PRIUS c",
+    "CO2 Emissions(lbs/mile)": 0.147977152
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "PRIUS v",
+    "CO2 Emissions(lbs/mile)": 0.172640011
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "RAV4",
+    "CO2 Emissions(lbs/mile)": 0.280882558
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "RAV4 AWD",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "RAV4 LIMITED AWD",
+    "CO2 Emissions(lbs/mile)": 0.298694622
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "SEQUOIA 4WD",
+    "CO2 Emissions(lbs/mile)": 0.526140986
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "SIENNA",
+    "CO2 Emissions(lbs/mile)": 0.356241293
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "SIENNA AWD",
+    "CO2 Emissions(lbs/mile)": 0.390495263
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "TACOMA",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "TACOMA 4WD",
+    "CO2 Emissions(lbs/mile)": 0.375423516
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "TUNDRA",
+    "CO2 Emissions(lbs/mile)": 0.424749234
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "TUNDRA 4WD",
+    "CO2 Emissions(lbs/mile)": 0.47544511
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "VENZA",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "VENZA 4WD",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "YARIS",
+    "CO2 Emissions(lbs/mile)": 0.230186681
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "BEETLE",
+    "CO2 Emissions(lbs/mile)": 0.268551128
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "BEETLE TDI (modified)",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "BEETLE CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "CC",
+    "CO2 Emissions(lbs/mile)": 0.305545416
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "CC 4MOTION",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "EOS",
+    "CO2 Emissions(lbs/mile)": 0.302805099
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "GOLF WAGON",
+    "CO2 Emissions(lbs/mile)": 0.298694622
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "GOLF WAGON TDI (modified)",
+    "CO2 Emissions(lbs/mile)": 0.271291446
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "JETTA",
+    "CO2 Emissions(lbs/mile)": 0.258960017
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "JETTA TDI (modified)",
+    "CO2 Emissions(lbs/mile)": 0.271291446
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "JETTA GLI",
+    "CO2 Emissions(lbs/mile)": 0.283622875
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "JETTA TURBO HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.169899693
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "PASSAT",
+    "CO2 Emissions(lbs/mile)": 0.271291446
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "PASSAT TDI (modified)",
+    "CO2 Emissions(lbs/mile)": 0.246628587
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "ROUTAN",
+    "CO2 Emissions(lbs/mile)": 0.380904151
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "TIGUAN",
+    "CO2 Emissions(lbs/mile)": 0.337059069
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "TIGUAN 4MOTION",
+    "CO2 Emissions(lbs/mile)": 0.337059069
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "TOUAREG",
+    "CO2 Emissions(lbs/mile)": 0.40556701
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "TOUAREG TDI (modified)",
+    "CO2 Emissions(lbs/mile)": 0.379533993
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S60",
+    "CO2 Emissions(lbs/mile)": 0.305545416
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S60 AWD",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S80",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S80 AWD",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC60",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC60 AWD",
+    "CO2 Emissions(lbs/mile)": 0.37131304
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC70 AWD",
+    "CO2 Emissions(lbs/mile)": 0.37131304
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC90 AWD",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "ACURA",
+    "Model": "MDX SH-AWD",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "ACURA",
+    "Model": "RLX HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.242518111
+  },
+  {
+    "Make": "ACURA",
+    "Model": "TLX",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "ACURA",
+    "Model": "TLX SH-AWD",
+    "CO2 Emissions(lbs/mile)": 0.302805099
+  },
+  {
+    "Make": "ASTON MARTIN",
+    "Model": "RAPIDE S",
+    "CO2 Emissions(lbs/mile)": 0.448041933
+  },
+  {
+    "Make": "ASTON MARTIN",
+    "Model": "V12 VANTAGE S",
+    "CO2 Emissions(lbs/mile)": 0.519290192
+  },
+  {
+    "Make": "ASTON MARTIN",
+    "Model": "VANTAGE GT",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A3",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A3 TDI (modified)",
+    "CO2 Emissions(lbs/mile)": 0.242518111
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A3 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.271291446
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A3 CABRIOLET QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.280882558
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A4 ALLROAD QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "AUDI",
+    "Model": "Q3",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "AUDI",
+    "Model": "Q3 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "AUDI",
+    "Model": "S3",
+    "CO2 Emissions(lbs/mile)": 0.283622875
+  },
+  {
+    "Make": "BENTLEY",
+    "Model": "CONTINENTAL GT CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.461743522
+  },
+  {
+    "Make": "BENTLEY",
+    "Model": "CONTINENTAL GT3-R",
+    "CO2 Emissions(lbs/mile)": 0.448041933
+  },
+  {
+    "Make": "BMW",
+    "Model": "228i CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.280882558
+  },
+  {
+    "Make": "BMW",
+    "Model": "228i COUPE",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "BMW",
+    "Model": "228i xDRIVE CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "BMW",
+    "Model": "228i xDRIVE COUPE",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "BMW",
+    "Model": "320i SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "BMW",
+    "Model": "320i xDRIVE SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "BMW",
+    "Model": "328d xDRIVE SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.247998746
+  },
+  {
+    "Make": "BMW",
+    "Model": "328i SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "BMW",
+    "Model": "328i xDRIVE SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "BMW",
+    "Model": "335i SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.302805099
+  },
+  {
+    "Make": "BMW",
+    "Model": "335i xDRIVE SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "BMW",
+    "Model": "428i CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.280882558
+  },
+  {
+    "Make": "BMW",
+    "Model": "428i GRAN COUPE",
+    "CO2 Emissions(lbs/mile)": 0.280882558
+  },
+  {
+    "Make": "BMW",
+    "Model": "428i xDRIVE CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.302805099
+  },
+  {
+    "Make": "BMW",
+    "Model": "428i xDRIVE GRAN COUPE",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "BMW",
+    "Model": "435i CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "BMW",
+    "Model": "435i GRAN COUPE",
+    "CO2 Emissions(lbs/mile)": 0.302805099
+  },
+  {
+    "Make": "BMW",
+    "Model": "435i xDRIVE CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "BMW",
+    "Model": "435i xDRIVE GRAN COUPE",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "BMW",
+    "Model": "528i SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.280882558
+  },
+  {
+    "Make": "BMW",
+    "Model": "528i xDRIVE SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "BMW",
+    "Model": "535d xDRIVE SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.291843828
+  },
+  {
+    "Make": "BMW",
+    "Model": "535i xDRIVE SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "BMW",
+    "Model": "550i xDRIVE SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "BMW",
+    "Model": "640i xDRIVE CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "BMW",
+    "Model": "740Ld xDRIVE SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.326097799
+  },
+  {
+    "Make": "BMW",
+    "Model": "740Li xDRIVE SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "BMW",
+    "Model": "750i xDRIVE SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "BMW",
+    "Model": "750Li xDRIVE SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "BMW",
+    "Model": "760Li SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.487776539
+  },
+  {
+    "Make": "BMW",
+    "Model": "ALPINA B6 xDRIVE GRAN COUPE",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "BMW",
+    "Model": "M235i CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "BMW",
+    "Model": "M235i COUPE",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "BMW",
+    "Model": "M235i xDRIVE COUPE",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "BMW",
+    "Model": "M3 SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.380904151
+  },
+  {
+    "Make": "BMW",
+    "Model": "M4 CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.380904151
+  },
+  {
+    "Make": "BMW",
+    "Model": "M4 COUPE",
+    "CO2 Emissions(lbs/mile)": 0.380904151
+  },
+  {
+    "Make": "BMW",
+    "Model": "M5 SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "BMW",
+    "Model": "M6 COUPE",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "BMW",
+    "Model": "X3 xDRIVE28d",
+    "CO2 Emissions(lbs/mile)": 0.291843828
+  },
+  {
+    "Make": "BMW",
+    "Model": "X4 xDRIVE28i",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "BMW",
+    "Model": "X4 xDRIVE35i",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "BMW",
+    "Model": "X5 M",
+    "CO2 Emissions(lbs/mile)": 0.460373363
+  },
+  {
+    "Make": "BMW",
+    "Model": "X5 xDRIVE35d",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CTS",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CTS AWD",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CTS Vsport",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "ESCALADE 4WD",
+    "CO2 Emissions(lbs/mile)": 0.441191139
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "ESCALADE ESV 4WD",
+    "CO2 Emissions(lbs/mile)": 0.457633045
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CAMARO Z/28",
+    "CO2 Emissions(lbs/mile)": 0.489146698
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CITY EXPRESS",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "COLORADO",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "COLORADO 4WD",
+    "CO2 Emissions(lbs/mile)": 0.356241293
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CORVETTE Z06",
+    "CO2 Emissions(lbs/mile)": 0.450782251
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "EQUINOX FFV",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "EQUINOX AWD FFV",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "EXPRESS 2500 PASSENGER FFV",
+    "CO2 Emissions(lbs/mile)": 0.591908609
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "EXPRESS 3500 PASSENGER FFV",
+    "CO2 Emissions(lbs/mile)": 0.598759403
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": 200,
+    "CO2 Emissions(lbs/mile)": 0.268551128
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "200 FFV",
+    "CO2 Emissions(lbs/mile)": 0.268551128
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "200 AWD",
+    "CO2 Emissions(lbs/mile)": 0.337059069
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "200 AWD FFV",
+    "CO2 Emissions(lbs/mile)": 0.337059069
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHALLENGER SRT HELLCAT",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHARGER SRT 392 HEMI",
+    "CO2 Emissions(lbs/mile)": 0.406937169
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHARGER SRT HELLCAT",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "DODGE",
+    "Model": "VIPER SRT COUPE",
+    "CO2 Emissions(lbs/mile)": 0.497367651
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500L",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "FORD",
+    "Model": "EDGE (Start/Stop)",
+    "CO2 Emissions(lbs/mile)": 0.308285734
+  },
+  {
+    "Make": "FORD",
+    "Model": "EDGE SPORT AWD",
+    "CO2 Emissions(lbs/mile)": 0.375423516
+  },
+  {
+    "Make": "FORD",
+    "Model": "EXPEDITION 4X4",
+    "CO2 Emissions(lbs/mile)": 0.448041933
+  },
+  {
+    "Make": "FORD",
+    "Model": "EXPEDITION MAX 4X4",
+    "CO2 Emissions(lbs/mile)": 0.453522569
+  },
+  {
+    "Make": "FORD",
+    "Model": "EXPLORER AWD (EcoBoost)",
+    "CO2 Emissions(lbs/mile)": 0.409677487
+  },
+  {
+    "Make": "FORD",
+    "Model": "T-150 WAGON",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "FORD",
+    "Model": "T-150 WAGON FFV",
+    "CO2 Emissions(lbs/mile)": 0.465853998
+  },
+  {
+    "Make": "FORD",
+    "Model": "TRANSIT CONNECT VAN",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "FORD",
+    "Model": "TRANSIT CONNECT WAGON TAXI",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "GMC",
+    "Model": "CANYON",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "GMC",
+    "Model": "CANYON 4WD",
+    "CO2 Emissions(lbs/mile)": 0.356241293
+  },
+  {
+    "Make": "GMC",
+    "Model": "SAVANA 2500 PASSENGER FFV",
+    "CO2 Emissions(lbs/mile)": 0.591908609
+  },
+  {
+    "Make": "GMC",
+    "Model": "SAVANA 3500 PASSENGER FFV",
+    "CO2 Emissions(lbs/mile)": 0.598759403
+  },
+  {
+    "Make": "GMC",
+    "Model": "TERRAIN FFV",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "GMC",
+    "Model": "YUKON DENALI 4WD",
+    "CO2 Emissions(lbs/mile)": 0.441191139
+  },
+  {
+    "Make": "GMC",
+    "Model": "YUKON XL DENALI 4WD",
+    "CO2 Emissions(lbs/mile)": 0.457633045
+  },
+  {
+    "Make": "HONDA",
+    "Model": "CIVIC Si",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "HONDA",
+    "Model": "CIVIC HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.164419058
+  },
+  {
+    "Make": "HONDA",
+    "Model": "PILOT 4WD",
+    "CO2 Emissions(lbs/mile)": 0.378163834
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "ELANTRA",
+    "CO2 Emissions(lbs/mile)": 0.235667317
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "ELANTRA COUPE",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "GENESIS AWD",
+    "CO2 Emissions(lbs/mile)": 0.380904151
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "GENESIS COUPE",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "SANTA FE AWD",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "SANTA FE SPORT AWD",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "SANTA FE ULTIMATE AWD",
+    "CO2 Emissions(lbs/mile)": 0.393235581
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "SONATA SPORT/LIMITED",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "TUCSON AWD",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q60",
+    "CO2 Emissions(lbs/mile)": 0.337059069
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q60 AWD",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE COUPE",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE S COUPE",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE V8 R COUPE",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XF AWD",
+    "CO2 Emissions(lbs/mile)": 0.365832404
+  },
+  {
+    "Make": "JEEP",
+    "Model": "CHEROKEE FFV",
+    "CO2 Emissions(lbs/mile)": 0.298694622
+  },
+  {
+    "Make": "JEEP",
+    "Model": "CHEROKEE 4X4 FFV",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "JEEP",
+    "Model": "RENEGADE",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "JEEP",
+    "Model": "RENEGADE FFV",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "JEEP",
+    "Model": "RENEGADE 4X4",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "JEEP",
+    "Model": "WRANGLER 4X4",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "JEEP",
+    "Model": "WRANGLER UNLIMITED 4X4",
+    "CO2 Emissions(lbs/mile)": 0.422008916
+  },
+  {
+    "Make": "KIA",
+    "Model": "K900",
+    "CO2 Emissions(lbs/mile)": 0.356241293
+  },
+  {
+    "Make": "KIA",
+    "Model": "SEDONA SX",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "KIA",
+    "Model": "SEDONA SXL",
+    "CO2 Emissions(lbs/mile)": 0.39460574
+  },
+  {
+    "Make": "KIA",
+    "Model": "SORENTO AWD",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "AVENTADOR ROADSTER",
+    "CO2 Emissions(lbs/mile)": 0.620681944
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "HURACAN",
+    "CO2 Emissions(lbs/mile)": 0.457633045
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "VENENO ROADSTER",
+    "CO2 Emissions(lbs/mile)": 0.57957718
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER SUPERCHARGED",
+    "CO2 Emissions(lbs/mile)": 0.47544511
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER SUPERCHARGED LWB",
+    "CO2 Emissions(lbs/mile)": 0.47544511
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER SPORT",
+    "CO2 Emissions(lbs/mile)": 0.390495263
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER SPORT SUPERCHARGED",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "NX 200t AWD",
+    "CO2 Emissions(lbs/mile)": 0.302805099
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "NX 200t AWD F SPORT",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "NX 300h AWD",
+    "CO2 Emissions(lbs/mile)": 0.232926999
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "RC 350",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "RC 350 AWD",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "RC F",
+    "CO2 Emissions(lbs/mile)": 0.397346057
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "MKC AWD",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "NAVIGATOR 4X4",
+    "CO2 Emissions(lbs/mile)": 0.448041933
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "NAVIGATOR L 4X4",
+    "CO2 Emissions(lbs/mile)": 0.453522569
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "B 250 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.280882558
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "C 300 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.283622875
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "C 400 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "CLA 250 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "CLA 45 AMG",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "CLS 400 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 400 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 400 4MATIC WAGON",
+    "CO2 Emissions(lbs/mile)": 0.339799387
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 400 CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 400 COUPE",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GLA 250 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GLA 45 AMG 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "ML 400 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.378163834
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "S 400 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.339799387
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "S 550 4MATIC COUPE",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "S 600",
+    "CO2 Emissions(lbs/mile)": 0.469964475
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "S 63 AMG COUPE",
+    "CO2 Emissions(lbs/mile)": 0.416528281
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "S 65 AMG",
+    "CO2 Emissions(lbs/mile)": 0.489146698
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "S 65 AMG COUPE",
+    "CO2 Emissions(lbs/mile)": 0.472704792
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "SLS AMG GT ROADSTER",
+    "CO2 Emissions(lbs/mile)": 0.491887016
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER 3 DOOR",
+    "CO2 Emissions(lbs/mile)": 0.235667317
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER 5 DOOR",
+    "CO2 Emissions(lbs/mile)": 0.235667317
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER S 3 DOOR",
+    "CO2 Emissions(lbs/mile)": 0.258960017
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER S 5 DOOR",
+    "CO2 Emissions(lbs/mile)": 0.258960017
+  },
+  {
+    "Make": "MINI",
+    "Model": "JOHN COOPER WORKS",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "370Z COUPE",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "JUKE NISMO RS",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "JUKE NISMO RS AWD",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "MICRA",
+    "CO2 Emissions(lbs/mile)": 0.245258428
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "MURANO",
+    "CO2 Emissions(lbs/mile)": 0.308285734
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "PATHFINDER 4WD PLATINUM",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 CARRERA 4 GTS",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 CARRERA 4 GTS CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 CARRERA GTS",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 CARRERA GTS CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 TARGA 4",
+    "CO2 Emissions(lbs/mile)": 0.339799387
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 TARGA 4S",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "BOXSTER GTS",
+    "CO2 Emissions(lbs/mile)": 0.298694622
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "CAYMAN GTS",
+    "CO2 Emissions(lbs/mile)": 0.298694622
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "MACAN S",
+    "CO2 Emissions(lbs/mile)": 0.385014628
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "MACAN TURBO",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "PANAMERA TURBO S",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "PANAMERA TURBO S EXECUTIVE",
+    "CO2 Emissions(lbs/mile)": 0.406937169
+  },
+  {
+    "Make": "RAM",
+    "Model": 1500,
+    "CO2 Emissions(lbs/mile)": 0.375423516
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 ECODIESEL",
+    "CO2 Emissions(lbs/mile)": 0.374053357
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 ECODIESEL HFE",
+    "CO2 Emissions(lbs/mile)": 0.363092087
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 4X4",
+    "CO2 Emissions(lbs/mile)": 0.397346057
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 4X4 ECODIESEL",
+    "CO2 Emissions(lbs/mile)": 0.391865422
+  },
+  {
+    "Make": "RAM",
+    "Model": "PROMASTER CITY",
+    "CO2 Emissions(lbs/mile)": 0.308285734
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "WRX",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "4RUNNER 4WD (Part-Time 4WD)",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "RAV4 LE/XLE",
+    "CO2 Emissions(lbs/mile)": 0.280882558
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "GOLF",
+    "CO2 Emissions(lbs/mile)": 0.25484954
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "GOLF TDI (modified)",
+    "CO2 Emissions(lbs/mile)": 0.242518111
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "GOLF GTI",
+    "CO2 Emissions(lbs/mile)": 0.268551128
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "GOLF SPORTWAGON",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "GOLF SPORTWAGON TDI (modified)",
+    "CO2 Emissions(lbs/mile)": 0.246628587
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "JETTA HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.167159376
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S60 POLESTAR AWD",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S60 T5",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S60 T5 AWD",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S60 T6",
+    "CO2 Emissions(lbs/mile)": 0.280882558
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S60 T6 AWD",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S80 T5",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S80 T6 AWD",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "V60 CC",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "V60 CC AWD",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "V60 POLESTAR AWD",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "V60 T5",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "V60 T5 AWD",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "V60 T6 AWD",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC60 3.2 AWD",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC60 T5",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC60 T5 AWD",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC60 T6",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC60 T6 AWD",
+    "CO2 Emissions(lbs/mile)": 0.375423516
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC70 3.2 AWD",
+    "CO2 Emissions(lbs/mile)": 0.356241293
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC70 T5",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC70 T6 AWD",
+    "CO2 Emissions(lbs/mile)": 0.375423516
+  },
+  {
+    "Make": "ACURA",
+    "Model": "MDX SH-AWD ELITE",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "ASTON MARTIN",
+    "Model": "DB9 GT",
+    "CO2 Emissions(lbs/mile)": 0.500107969
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A8 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.338429228
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A8 QUATTRO TDI (modified)",
+    "CO2 Emissions(lbs/mile)": 0.306915575
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A8L QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "AUDI",
+    "Model": "Q5 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "AUDI",
+    "Model": "Q5 QUATTRO TDI (modified)",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "AUDI",
+    "Model": "Q5 HYBRID QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "AUDI",
+    "Model": "RS 7 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.42885971
+  },
+  {
+    "Make": "AUDI",
+    "Model": "S3 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.289103511
+  },
+  {
+    "Make": "AUDI",
+    "Model": "S4 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.352130816
+  },
+  {
+    "Make": "AUDI",
+    "Model": "S5 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.352130816
+  },
+  {
+    "Make": "AUDI",
+    "Model": "S5 CABRIOLET QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.364462246
+  },
+  {
+    "Make": "AUDI",
+    "Model": "S6 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.360351769
+  },
+  {
+    "Make": "AUDI",
+    "Model": "S7 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.363092087
+  },
+  {
+    "Make": "AUDI",
+    "Model": "S8 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.411047645
+  },
+  {
+    "Make": "AUDI",
+    "Model": "SQ5 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.390495263
+  },
+  {
+    "Make": "BMW",
+    "Model": "228i",
+    "CO2 Emissions(lbs/mile)": 0.269921287
+  },
+  {
+    "Make": "BMW",
+    "Model": "228i xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.283622875
+  },
+  {
+    "Make": "BMW",
+    "Model": "340i",
+    "CO2 Emissions(lbs/mile)": 0.297324463
+  },
+  {
+    "Make": "BMW",
+    "Model": "340i xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "BMW",
+    "Model": "M2",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "BMW",
+    "Model": "M235i",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "BMW",
+    "Model": "M235i xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.326097799
+  },
+  {
+    "Make": "BMW",
+    "Model": "M235i xDRIVE CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.326097799
+  },
+  {
+    "Make": "BMW",
+    "Model": "M3",
+    "CO2 Emissions(lbs/mile)": 0.389125104
+  },
+  {
+    "Make": "BMW",
+    "Model": "X4 M40i",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "BUICK",
+    "Model": "ENCORE SPORT TOURING",
+    "CO2 Emissions(lbs/mile)": 0.249368905
+  },
+  {
+    "Make": "BUICK",
+    "Model": "ENCORE SPORT TOURING AWD",
+    "CO2 Emissions(lbs/mile)": 0.263070493
+  },
+  {
+    "Make": "BUICK",
+    "Model": "ENVISION AWD",
+    "CO2 Emissions(lbs/mile)": 0.339799387
+  },
+  {
+    "Make": "BUICK",
+    "Model": "LACROSSE FFV",
+    "CO2 Emissions(lbs/mile)": 0.367202563
+  },
+  {
+    "Make": "BUICK",
+    "Model": "LACROSSE AWD FFV",
+    "CO2 Emissions(lbs/mile)": 0.375423516
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "ATS-V",
+    "CO2 Emissions(lbs/mile)": 0.401456534
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CT6",
+    "CO2 Emissions(lbs/mile)": 0.304175258
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CT6 AWD",
+    "CO2 Emissions(lbs/mile)": 0.360351769
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CTS-V",
+    "CO2 Emissions(lbs/mile)": 0.454892728
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CRUZE PREMIER",
+    "CO2 Emissions(lbs/mile)": 0.219225411
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CRUZE LIMITED",
+    "CO2 Emissions(lbs/mile)": 0.252109222
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CRUZE LIMITED ECO",
+    "CO2 Emissions(lbs/mile)": 0.247998746
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "IMPALA FFV",
+    "CO2 Emissions(lbs/mile)": 0.339799387
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "IMPALA DUAL FUEL",
+    "CO2 Emissions(lbs/mile)": 0.372683198
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "MALIBU LIMITED",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "MALIBU HYBRID",
+    "CO2 Emissions(lbs/mile)": 0.167159376
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "SILVERADO FFV",
+    "CO2 Emissions(lbs/mile)": 0.383644469
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "SILVERADO 4WD FFV",
+    "CO2 Emissions(lbs/mile)": 0.40556701
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "SILVERADO eASSIST 4WD",
+    "CO2 Emissions(lbs/mile)": 0.416528281
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "SUBURBAN FFV",
+    "CO2 Emissions(lbs/mile)": 0.416528281
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "SUBURBAN 4WD FFV",
+    "CO2 Emissions(lbs/mile)": 0.427489551
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "TAHOE FFV",
+    "CO2 Emissions(lbs/mile)": 0.416528281
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "TAHOE 4WD FFV",
+    "CO2 Emissions(lbs/mile)": 0.424749234
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "TRAX 4WD",
+    "CO2 Emissions(lbs/mile)": 0.280882558
+  },
+  {
+    "Make": "DODGE",
+    "Model": "DURANGO AWD",
+    "CO2 Emissions(lbs/mile)": 0.363092087
+  },
+  {
+    "Make": "DODGE",
+    "Model": "VIPER SRT",
+    "CO2 Emissions(lbs/mile)": 0.49873781
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500X",
+    "CO2 Emissions(lbs/mile)": 0.265810811
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500X AWD",
+    "CO2 Emissions(lbs/mile)": 0.306915575
+  },
+  {
+    "Make": "FORD",
+    "Model": "EXPEDITION EL 4X4",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "FORD",
+    "Model": "F-150 (Payload Pkg)",
+    "CO2 Emissions(lbs/mile)": 0.360351769
+  },
+  {
+    "Make": "FORD",
+    "Model": "F-150 FFV (Payload Pkg)",
+    "CO2 Emissions(lbs/mile)": 0.467224157
+  },
+  {
+    "Make": "FORD",
+    "Model": "F-150 4X4 (Payload Pkg)",
+    "CO2 Emissions(lbs/mile)": 0.39460574
+  },
+  {
+    "Make": "FORD",
+    "Model": "F-150 FFV 4X4 (Payload Pkg)",
+    "CO2 Emissions(lbs/mile)": 0.47544511
+  },
+  {
+    "Make": "FORD",
+    "Model": "FLEX AWD GTDI",
+    "CO2 Emissions(lbs/mile)": 0.441191139
+  },
+  {
+    "Make": "FORD",
+    "Model": "FOCUS RS AWD",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "FORD",
+    "Model": "FOCUS ST",
+    "CO2 Emissions(lbs/mile)": 0.297324463
+  },
+  {
+    "Make": "FORD",
+    "Model": "SHELBY GT350 MUSTANG",
+    "CO2 Emissions(lbs/mile)": 0.457633045
+  },
+  {
+    "Make": "FORD",
+    "Model": "TRANSIT CONNECT VAN FFV",
+    "CO2 Emissions(lbs/mile)": 0.332948593
+  },
+  {
+    "Make": "FORD",
+    "Model": "TRANSIT CONNECT WAGON FFV",
+    "CO2 Emissions(lbs/mile)": 0.345280022
+  },
+  {
+    "Make": "FORD",
+    "Model": "TRANSIT CONNECT WAGON LWB",
+    "CO2 Emissions(lbs/mile)": 0.345280022
+  },
+  {
+    "Make": "FORD",
+    "Model": "TRANSIT CONNECT WAGON LWB FFV",
+    "CO2 Emissions(lbs/mile)": 0.345280022
+  },
+  {
+    "Make": "GMC",
+    "Model": "SIERRA FFV",
+    "CO2 Emissions(lbs/mile)": 0.383644469
+  },
+  {
+    "Make": "GMC",
+    "Model": "SIERRA 4WD FFV",
+    "CO2 Emissions(lbs/mile)": 0.40556701
+  },
+  {
+    "Make": "GMC",
+    "Model": "SIERRA eASSIST 4WD",
+    "CO2 Emissions(lbs/mile)": 0.416528281
+  },
+  {
+    "Make": "GMC",
+    "Model": "YUKON FFV",
+    "CO2 Emissions(lbs/mile)": 0.416528281
+  },
+  {
+    "Make": "GMC",
+    "Model": "YUKON 4WD FFV",
+    "CO2 Emissions(lbs/mile)": 0.424749234
+  },
+  {
+    "Make": "GMC",
+    "Model": "YUKON XL FFV",
+    "CO2 Emissions(lbs/mile)": 0.416528281
+  },
+  {
+    "Make": "GMC",
+    "Model": "YUKON XL 4WD FFV",
+    "CO2 Emissions(lbs/mile)": 0.427489551
+  },
+  {
+    "Make": "HONDA",
+    "Model": "ACCORD COUPE",
+    "CO2 Emissions(lbs/mile)": 0.305545416
+  },
+  {
+    "Make": "HONDA",
+    "Model": "ACCORD SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.242518111
+  },
+  {
+    "Make": "HONDA",
+    "Model": "ACCORD SPORT",
+    "CO2 Emissions(lbs/mile)": 0.256219699
+  },
+  {
+    "Make": "HONDA",
+    "Model": "CIVIC COUPE",
+    "CO2 Emissions(lbs/mile)": 0.212374617
+  },
+  {
+    "Make": "HONDA",
+    "Model": "CIVIC SEDAN",
+    "CO2 Emissions(lbs/mile)": 0.215114934
+  },
+  {
+    "Make": "HONDA",
+    "Model": "HR-V",
+    "CO2 Emissions(lbs/mile)": 0.242518111
+  },
+  {
+    "Make": "HONDA",
+    "Model": "HR-V AWD",
+    "CO2 Emissions(lbs/mile)": 0.260330175
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q50S AWD",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q50S RED SPORT",
+    "CO2 Emissions(lbs/mile)": 0.338429228
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q50S RED SPORT AWD",
+    "CO2 Emissions(lbs/mile)": 0.350760657
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE PROJECT 7 CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.413787963
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE R AWD CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.426119392
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE R AWD COUPE",
+    "CO2 Emissions(lbs/mile)": 0.426119392
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE S CONVERTIBLE AWD",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE S COUPE AWD",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XF AWD",
+    "CO2 Emissions(lbs/mile)": 0.330208275
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XJ R-SPORT 3.0 AWD",
+    "CO2 Emissions(lbs/mile)": 0.376793675
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XJL 3.0 AWD PORTFOLIO",
+    "CO2 Emissions(lbs/mile)": 0.38227431
+  },
+  {
+    "Make": "JEEP",
+    "Model": "GRAND CHEROKEE 4X4",
+    "CO2 Emissions(lbs/mile)": 0.363092087
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "HURACAN SPYDER",
+    "CO2 Emissions(lbs/mile)": 0.465853998
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "DISCOVERY SPORT",
+    "CO2 Emissions(lbs/mile)": 0.339799387
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER TD6 DIESEL",
+    "CO2 Emissions(lbs/mile)": 0.34802034
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER SPORT TD6 DIESEL",
+    "CO2 Emissions(lbs/mile)": 0.34802034
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "GS 200t",
+    "CO2 Emissions(lbs/mile)": 0.290473669
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "GS 200t F SPORT",
+    "CO2 Emissions(lbs/mile)": 0.311026052
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "GS 350 F SPORT",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "GS F",
+    "CO2 Emissions(lbs/mile)": 0.401456534
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "IS 200t",
+    "CO2 Emissions(lbs/mile)": 0.290473669
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "IS 300 AWD",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "RC 200t",
+    "CO2 Emissions(lbs/mile)": 0.293213987
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "RC 300 AWD",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "MASERATI",
+    "Model": "GHIBLI S",
+    "CO2 Emissions(lbs/mile)": 0.401456534
+  },
+  {
+    "Make": "MASERATI",
+    "Model": "GHIBLI SQ4",
+    "CO2 Emissions(lbs/mile)": 0.404196851
+  },
+  {
+    "Make": "MASERATI",
+    "Model": "QUATTROPORTE S",
+    "CO2 Emissions(lbs/mile)": 0.411047645
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-3",
+    "CO2 Emissions(lbs/mile)": 0.245258428
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-3 4WD",
+    "CO2 Emissions(lbs/mile)": 0.258960017
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-5 (SIL)",
+    "CO2 Emissions(lbs/mile)": 0.257589858
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MAZDA6 (SIL)",
+    "CO2 Emissions(lbs/mile)": 0.257589858
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MX-5 (SIL)",
+    "CO2 Emissions(lbs/mile)": 0.250739064
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG C 63",
+    "CO2 Emissions(lbs/mile)": 0.367202563
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG C 63 S",
+    "CO2 Emissions(lbs/mile)": 0.367202563
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG CLA 45",
+    "CO2 Emissions(lbs/mile)": 0.293213987
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG CLS 63 S 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.422008916
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG E 63 S 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.424749234
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG E 63 S 4MATIC WAGON",
+    "CO2 Emissions(lbs/mile)": 0.424749234
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG G 63",
+    "CO2 Emissions(lbs/mile)": 0.571356227
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG G 65",
+    "CO2 Emissions(lbs/mile)": 0.652195597
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GL 63 S",
+    "CO2 Emissions(lbs/mile)": 0.505588604
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GLA 45",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GLE 63 S 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.501478127
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GLE 63 S COUPE 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.497367651
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GT S",
+    "CO2 Emissions(lbs/mile)": 0.415158122
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG S 63",
+    "CO2 Emissions(lbs/mile)": 0.42885971
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG S 63 COUPE",
+    "CO2 Emissions(lbs/mile)": 0.42885971
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG S 65",
+    "CO2 Emissions(lbs/mile)": 0.494627333
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG S 65 COUPE",
+    "CO2 Emissions(lbs/mile)": 0.48640638
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG SL 63",
+    "CO2 Emissions(lbs/mile)": 0.408307328
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG SL 65",
+    "CO2 Emissions(lbs/mile)": 0.459003204
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG SLK 55",
+    "CO2 Emissions(lbs/mile)": 0.345280022
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "C 450 AMG SPORT 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.316506687
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "CLA 250 4MATIC FFV",
+    "CO2 Emissions(lbs/mile)": 0.271291446
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 400 4MATIC COUPE",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GLE 350d 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.337059069
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GLE 350d 4MATIC COUPE",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GLE 400 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.386384787
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GLE 450 AMG SPORT 4MATIC COUPE",
+    "CO2 Emissions(lbs/mile)": 0.385014628
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GLE 550 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.459003204
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "MAYBACH S 600",
+    "CO2 Emissions(lbs/mile)": 0.491887016
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "METRIS CARGO",
+    "CO2 Emissions(lbs/mile)": 0.319247005
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "METRIS PASSENGER",
+    "CO2 Emissions(lbs/mile)": 0.339799387
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "S 400 4MATIC SWB",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "SLK 300",
+    "CO2 Emissions(lbs/mile)": 0.272661605
+  },
+  {
+    "Make": "MITSUBISHI",
+    "Model": "LANCER 4WD",
+    "CO2 Emissions(lbs/mile)": 0.287733352
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "ALTIMA 3.5",
+    "CO2 Emissions(lbs/mile)": 0.290473669
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "ALTIMA SR",
+    "CO2 Emissions(lbs/mile)": 0.247998746
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 GT3RS",
+    "CO2 Emissions(lbs/mile)": 0.457633045
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "BOXSTER SPYDER",
+    "CO2 Emissions(lbs/mile)": 0.372683198
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "CAYMAN GT4",
+    "CO2 Emissions(lbs/mile)": 0.379533993
+  },
+  {
+    "Make": "SCION",
+    "Model": "iM",
+    "CO2 Emissions(lbs/mile)": 0.237037475
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "RAV4 HYBRID AWD",
+    "CO2 Emissions(lbs/mile)": 0.23155684
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "RAV4 LIMITED/SE AWD",
+    "CO2 Emissions(lbs/mile)": 0.30143494
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "TACOMA 4WD D-CAB OFF-ROAD",
+    "CO2 Emissions(lbs/mile)": 0.411047645
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "YARIS (SIL)",
+    "CO2 Emissions(lbs/mile)": 0.215114934
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "YARIS HATCHBACK",
+    "CO2 Emissions(lbs/mile)": 0.232926999
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "BEETLE DUNE",
+    "CO2 Emissions(lbs/mile)": 0.27814224
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "GOLF R",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S60 CC T5 AWD",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S60 INSCRIPTION",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S60 INSCRIPTION T5 AWD",
+    "CO2 Emissions(lbs/mile)": 0.319247005
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S60 T5",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S60 T6",
+    "CO2 Emissions(lbs/mile)": 0.298694622
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S60 3.0T AWD",
+    "CO2 Emissions(lbs/mile)": 0.354871134
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S60 POLESTAR",
+    "CO2 Emissions(lbs/mile)": 0.354871134
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "V60 CC T5 AWD",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "V60 3.0T AWD",
+    "CO2 Emissions(lbs/mile)": 0.354871134
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "V60 POLESTAR",
+    "CO2 Emissions(lbs/mile)": 0.354871134
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC60 T6",
+    "CO2 Emissions(lbs/mile)": 0.309655893
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC60 3.0T AWD",
+    "CO2 Emissions(lbs/mile)": 0.378163834
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC70 T5 AWD",
+    "CO2 Emissions(lbs/mile)": 0.34802034
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC90 T5",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC90 T5 AWD",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC90 T6 AWD",
+    "CO2 Emissions(lbs/mile)": 0.338429228
+  },
+  {
+    "Make": "ACURA",
+    "Model": "MDX HYBRID AWD",
+    "CO2 Emissions(lbs/mile)": 0.287733352
+  },
+  {
+    "Make": "ACURA",
+    "Model": "NSX",
+    "CO2 Emissions(lbs/mile)": 0.357611451
+  },
+  {
+    "Make": "ALFA ROMEO",
+    "Model": "4C SPIDER",
+    "CO2 Emissions(lbs/mile)": 0.269921287
+  },
+  {
+    "Make": "ALFA ROMEO",
+    "Model": "GIULIA",
+    "CO2 Emissions(lbs/mile)": 0.280882558
+  },
+  {
+    "Make": "ALFA ROMEO",
+    "Model": "GIULIA AWD",
+    "CO2 Emissions(lbs/mile)": 0.297324463
+  },
+  {
+    "Make": "ALFA ROMEO",
+    "Model": "GIULIA QUADRIFOGLIO",
+    "CO2 Emissions(lbs/mile)": 0.383644469
+  },
+  {
+    "Make": "ASTON MARTIN",
+    "Model": "DB11 V12",
+    "CO2 Emissions(lbs/mile)": 0.441191139
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A4 ULTRA",
+    "CO2 Emissions(lbs/mile)": 0.242518111
+  },
+  {
+    "Make": "BENTLEY",
+    "Model": "BENTAYGA",
+    "CO2 Emissions(lbs/mile)": 0.506958763
+  },
+  {
+    "Make": "BENTLEY",
+    "Model": "MULSANNE EWB",
+    "CO2 Emissions(lbs/mile)": 0.589168292
+  },
+  {
+    "Make": "BMW",
+    "Model": "230i CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.283622875
+  },
+  {
+    "Make": "BMW",
+    "Model": "230i COUPE",
+    "CO2 Emissions(lbs/mile)": 0.269921287
+  },
+  {
+    "Make": "BMW",
+    "Model": "230i xDRIVE CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.291843828
+  },
+  {
+    "Make": "BMW",
+    "Model": "230i xDRIVE COUPE",
+    "CO2 Emissions(lbs/mile)": 0.287733352
+  },
+  {
+    "Make": "BMW",
+    "Model": "330i xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.291843828
+  },
+  {
+    "Make": "BMW",
+    "Model": "330i xDRIVE GRAN TURISMO",
+    "CO2 Emissions(lbs/mile)": 0.291843828
+  },
+  {
+    "Make": "BMW",
+    "Model": "330i xDRIVE TOURING",
+    "CO2 Emissions(lbs/mile)": 0.291843828
+  },
+  {
+    "Make": "BMW",
+    "Model": "340i xDRIVE GRAN TURISMO",
+    "CO2 Emissions(lbs/mile)": 0.326097799
+  },
+  {
+    "Make": "BMW",
+    "Model": "430i xDRIVE CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.289103511
+  },
+  {
+    "Make": "BMW",
+    "Model": "430i xDRIVE COUPE",
+    "CO2 Emissions(lbs/mile)": 0.291843828
+  },
+  {
+    "Make": "BMW",
+    "Model": "430i xDRIVE GRAN COUPE",
+    "CO2 Emissions(lbs/mile)": 0.291843828
+  },
+  {
+    "Make": "BMW",
+    "Model": "440i COUPE",
+    "CO2 Emissions(lbs/mile)": 0.306915575
+  },
+  {
+    "Make": "BMW",
+    "Model": "440i xDRIVE CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.326097799
+  },
+  {
+    "Make": "BMW",
+    "Model": "440i xDRIVE COUPE",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "BMW",
+    "Model": "440i xDRIVE GRAN COUPE",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "BMW",
+    "Model": "530i xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.291843828
+  },
+  {
+    "Make": "BMW",
+    "Model": "540i xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "BMW",
+    "Model": "ALPINA B7 xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "BMW",
+    "Model": "M240i CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.306915575
+  },
+  {
+    "Make": "BMW",
+    "Model": "M240i COUPE",
+    "CO2 Emissions(lbs/mile)": 0.306915575
+  },
+  {
+    "Make": "BMW",
+    "Model": "M240i xDRIVE CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "BMW",
+    "Model": "M240i xDRIVE COUPE",
+    "CO2 Emissions(lbs/mile)": 0.31239621
+  },
+  {
+    "Make": "BMW",
+    "Model": "M760i xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.48640638
+  },
+  {
+    "Make": "BUICK",
+    "Model": "ENCORE (LUV Engine)",
+    "CO2 Emissions(lbs/mile)": 0.265810811
+  },
+  {
+    "Make": "BUICK",
+    "Model": "ENCORE (LE2 Engine)",
+    "CO2 Emissions(lbs/mile)": 0.253479381
+  },
+  {
+    "Make": "BUICK",
+    "Model": "ENCORE AWD (LUV Engine)",
+    "CO2 Emissions(lbs/mile)": 0.284993034
+  },
+  {
+    "Make": "BUICK",
+    "Model": "ENCORE AWD (LE2 Engine)",
+    "CO2 Emissions(lbs/mile)": 0.268551128
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "XT5",
+    "CO2 Emissions(lbs/mile)": 0.33568891
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "XT5 AWD",
+    "CO2 Emissions(lbs/mile)": 0.356241293
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "COLORADO ZR2 4WD",
+    "CO2 Emissions(lbs/mile)": 0.431600028
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CRUZE HATCHBACK",
+    "CO2 Emissions(lbs/mile)": 0.235667317
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CRUZE HATCHBACK PREMIER",
+    "CO2 Emissions(lbs/mile)": 0.241147952
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "PACIFICA",
+    "CO2 Emissions(lbs/mile)": 0.352130816
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "PACIFICA (Stop-Start)",
+    "CO2 Emissions(lbs/mile)": 0.341169546
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHALLENGER GT",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "DODGE",
+    "Model": "VIPER",
+    "CO2 Emissions(lbs/mile)": 0.530251463
+  },
+  {
+    "Make": "FIAT",
+    "Model": "124 SPIDER",
+    "CO2 Emissions(lbs/mile)": 0.256219699
+  },
+  {
+    "Make": "FORD",
+    "Model": "ESCAPE FFV",
+    "CO2 Emissions(lbs/mile)": 0.313766369
+  },
+  {
+    "Make": "FORD",
+    "Model": "F-150 (LT Tire Pkg)",
+    "CO2 Emissions(lbs/mile)": 0.360351769
+  },
+  {
+    "Make": "FORD",
+    "Model": "F-150 4X4 (LT Tire Pkg)",
+    "CO2 Emissions(lbs/mile)": 0.401456534
+  },
+  {
+    "Make": "FORD",
+    "Model": "F-150 FFV 4X4 (LT Tire Pkg)",
+    "CO2 Emissions(lbs/mile)": 0.45215241
+  },
+  {
+    "Make": "FORD",
+    "Model": "FOCUS (Start/Stop)",
+    "CO2 Emissions(lbs/mile)": 0.241147952
+  },
+  {
+    "Make": "FORD",
+    "Model": "GT",
+    "CO2 Emissions(lbs/mile)": 0.55628448
+  },
+  {
+    "Make": "FORD",
+    "Model": "MUSTANG (Performance Pkg)",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "GENESIS",
+    "Model": "G80 AWD",
+    "CO2 Emissions(lbs/mile)": 0.391865422
+  },
+  {
+    "Make": "GENESIS",
+    "Model": "G90 AWD",
+    "CO2 Emissions(lbs/mile)": 0.38227431
+  },
+  {
+    "Make": "HONDA",
+    "Model": "CIVIC HATCHBACK",
+    "CO2 Emissions(lbs/mile)": 0.221965728
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "IONIQ",
+    "CO2 Emissions(lbs/mile)": 0.141126358
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "IONIQ BLUE",
+    "CO2 Emissions(lbs/mile)": 0.131535247
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "SONATA HYBRID SE",
+    "CO2 Emissions(lbs/mile)": 0.187711758
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q60S RED SPORT AWD",
+    "CO2 Emissions(lbs/mile)": 0.354871134
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "QX30",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "QX30 AWD",
+    "CO2 Emissions(lbs/mile)": 0.302805099
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-PACE 35t",
+    "CO2 Emissions(lbs/mile)": 0.379533993
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE R CONVERTIBLE AWD",
+    "CO2 Emissions(lbs/mile)": 0.426119392
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE R COUPE AWD",
+    "CO2 Emissions(lbs/mile)": 0.426119392
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XE 20d AWD",
+    "CO2 Emissions(lbs/mile)": 0.25484954
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XE 35t AWD",
+    "CO2 Emissions(lbs/mile)": 0.326097799
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XF 20d AWD",
+    "CO2 Emissions(lbs/mile)": 0.25484954
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XF 35t AWD",
+    "CO2 Emissions(lbs/mile)": 0.332948593
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XJL PORTFOLIO 3.0 AWD",
+    "CO2 Emissions(lbs/mile)": 0.383644469
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XJR  LWB",
+    "CO2 Emissions(lbs/mile)": 0.42885971
+  },
+  {
+    "Make": "JEEP",
+    "Model": "CHEROKEE 4X4 ACTIVE DRIVE I",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "JEEP",
+    "Model": "CHEROKEE 4X4 ACTIVE DRIVE LOCK",
+    "CO2 Emissions(lbs/mile)": 0.350760657
+  },
+  {
+    "Make": "JEEP",
+    "Model": "GRAND CHEROKEE SRT8",
+    "CO2 Emissions(lbs/mile)": 0.504218445
+  },
+  {
+    "Make": "JEEP",
+    "Model": "NEW COMPASS",
+    "CO2 Emissions(lbs/mile)": 0.298694622
+  },
+  {
+    "Make": "JEEP",
+    "Model": "NEW COMPASS 4X4",
+    "CO2 Emissions(lbs/mile)": 0.304175258
+  },
+  {
+    "Make": "KIA",
+    "Model": "FORTE (MPI)",
+    "CO2 Emissions(lbs/mile)": 0.232926999
+  },
+  {
+    "Make": "KIA",
+    "Model": "FORTE (GDI)",
+    "CO2 Emissions(lbs/mile)": 0.271291446
+  },
+  {
+    "Make": "KIA",
+    "Model": "NIRO",
+    "CO2 Emissions(lbs/mile)": 0.156198105
+  },
+  {
+    "Make": "KIA",
+    "Model": "NIRO FE",
+    "CO2 Emissions(lbs/mile)": 0.15071747
+  },
+  {
+    "Make": "KIA",
+    "Model": "NIRO TOURING",
+    "CO2 Emissions(lbs/mile)": 0.176750488
+  },
+  {
+    "Make": "KIA",
+    "Model": "OPTIMA FE",
+    "CO2 Emissions(lbs/mile)": 0.260330175
+  },
+  {
+    "Make": "KIA",
+    "Model": "OPTIMA TURBO",
+    "CO2 Emissions(lbs/mile)": 0.306915575
+  },
+  {
+    "Make": "KIA",
+    "Model": "SORENTO AWD FE",
+    "CO2 Emissions(lbs/mile)": 0.369942881
+  },
+  {
+    "Make": "KIA",
+    "Model": "SOUL TURBO",
+    "CO2 Emissions(lbs/mile)": 0.272661605
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "AVENTADOR COUPE LP 740",
+    "CO2 Emissions(lbs/mile)": 0.631643215
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "AVENTADOR ROADSTER LP 740",
+    "CO2 Emissions(lbs/mile)": 0.631643215
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER EVOQUE CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.332948593
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "CONTINENTAL AWD",
+    "CO2 Emissions(lbs/mile)": 0.385014628
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "MKC AWD (Start/Stop)",
+    "CO2 Emissions(lbs/mile)": 0.34802034
+  },
+  {
+    "Make": "MASERATI",
+    "Model": "LEVANTE",
+    "CO2 Emissions(lbs/mile)": 0.465853998
+  },
+  {
+    "Make": "MASERATI",
+    "Model": "LEVANTE S",
+    "CO2 Emissions(lbs/mile)": 0.474074951
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG C 63 CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.398716216
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG C 63 COUPE",
+    "CO2 Emissions(lbs/mile)": 0.390495263
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG C 63 S CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.398716216
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG C 63 S COUPE",
+    "CO2 Emissions(lbs/mile)": 0.390495263
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GLA 45 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.319247005
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GLC 43 4MATIC COUPE",
+    "CO2 Emissions(lbs/mile)": 0.483666063
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GLE 43 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.385014628
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GLE 43 4MATIC COUPE",
+    "CO2 Emissions(lbs/mile)": 0.385014628
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GLE 63 S 4MATIC COUPE",
+    "CO2 Emissions(lbs/mile)": 0.497367651
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GLS 63",
+    "CO2 Emissions(lbs/mile)": 0.505588604
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GT COUPE",
+    "CO2 Emissions(lbs/mile)": 0.415158122
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GT S COUPE",
+    "CO2 Emissions(lbs/mile)": 0.415158122
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG S 63 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.42885971
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG S 63 CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.441191139
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG S 65 CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.476815269
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG SLC 43",
+    "CO2 Emissions(lbs/mile)": 0.320617163
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "C 300 4MATIC CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.304175258
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "C 300 4MATIC COUPE",
+    "CO2 Emissions(lbs/mile)": 0.298694622
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GLC 300 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.319247005
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GLS 450 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.419268598
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GLS 550 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.47544511
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "S 550 4MATIC CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.378163834
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "SL 450",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "SLC 300",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER CLUBMAN ALL4",
+    "CO2 Emissions(lbs/mile)": 0.291843828
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER COUNTRYMAN ALL4",
+    "CO2 Emissions(lbs/mile)": 0.294584146
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER S CLUBMAN ALL4",
+    "CO2 Emissions(lbs/mile)": 0.287733352
+  },
+  {
+    "Make": "MINI",
+    "Model": "COOPER S COUNTRYMAN  ALL4",
+    "CO2 Emissions(lbs/mile)": 0.291843828
+  },
+  {
+    "Make": "MINI",
+    "Model": "JOHN COOPER WORKS 3 DOOR",
+    "CO2 Emissions(lbs/mile)": 0.268551128
+  },
+  {
+    "Make": "MINI",
+    "Model": "JOHN COOPER WORKS CLUBMAN ALL4",
+    "CO2 Emissions(lbs/mile)": 0.287733352
+  },
+  {
+    "Make": "MITSUBISHI",
+    "Model": "MIRAGE G4",
+    "CO2 Emissions(lbs/mile)": 0.204153664
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "QASHQAI",
+    "CO2 Emissions(lbs/mile)": 0.261700334
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "QASHQAI AWD",
+    "CO2 Emissions(lbs/mile)": 0.269921287
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "SENTRA (Turbo)",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "SENTRA NISMO",
+    "CO2 Emissions(lbs/mile)": 0.280882558
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "TITAN 4WD PRO-4X",
+    "CO2 Emissions(lbs/mile)": 0.456262886
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "CAYENNE PLATINUM",
+    "CO2 Emissions(lbs/mile)": 0.385014628
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "MACAN",
+    "CO2 Emissions(lbs/mile)": 0.339799387
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "MACAN GTS",
+    "CO2 Emissions(lbs/mile)": 0.393235581
+  },
+  {
+    "Make": "ROLLS-ROYCE",
+    "Model": "DAWN",
+    "CO2 Emissions(lbs/mile)": 0.534361939
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "CROSSTREK AWD",
+    "CO2 Emissions(lbs/mile)": 0.264440652
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "IMPREZA 4-DOOR AWD",
+    "CO2 Emissions(lbs/mile)": 0.238407634
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "IMPREZA 5-DOOR AWD",
+    "CO2 Emissions(lbs/mile)": 0.241147952
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "WRX AWD",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": 86,
+    "CO2 Emissions(lbs/mile)": 0.279512399
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "COROLLA iM",
+    "CO2 Emissions(lbs/mile)": 0.241147952
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "HIGHLANDER AWD (Start/Stop System)",
+    "CO2 Emissions(lbs/mile)": 0.338429228
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "HIGHLANDER AWD LE",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "GOLF ALLTRACK",
+    "CO2 Emissions(lbs/mile)": 0.30143494
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "GOLF SPORTWAGEN",
+    "CO2 Emissions(lbs/mile)": 0.263070493
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "GOLF SPORTWAGEN 4MOTION",
+    "CO2 Emissions(lbs/mile)": 0.30143494
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S60 INSCRIPTION T5",
+    "CO2 Emissions(lbs/mile)": 0.271291446
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S90 T5",
+    "CO2 Emissions(lbs/mile)": 0.279512399
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S90 T6 AWD",
+    "CO2 Emissions(lbs/mile)": 0.300064781
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "V90 T5",
+    "CO2 Emissions(lbs/mile)": 0.279512399
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "V90 T6 AWD",
+    "CO2 Emissions(lbs/mile)": 0.300064781
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "V90 CC T6 AWD",
+    "CO2 Emissions(lbs/mile)": 0.302805099
+  },
+  {
+    "Make": "ACURA",
+    "Model": "TLX A-SPEC",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "ACURA",
+    "Model": "TLX SH-AWD A-SPEC",
+    "CO2 Emissions(lbs/mile)": 0.328838116
+  },
+  {
+    "Make": "ALFA ROMEO",
+    "Model": "4C COUPE",
+    "CO2 Emissions(lbs/mile)": 0.269921287
+  },
+  {
+    "Make": "ALFA ROMEO",
+    "Model": "STELVIO AWD",
+    "CO2 Emissions(lbs/mile)": 0.309655893
+  },
+  {
+    "Make": "ALFA ROMEO",
+    "Model": "STELVIO QUADRIFOGLIO",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "ASTON MARTIN",
+    "Model": "DB11 V8",
+    "CO2 Emissions(lbs/mile)": 0.37131304
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A5 SPORTBACK QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.27814224
+  },
+  {
+    "Make": "AUDI",
+    "Model": "R8 QUATTRO",
+    "CO2 Emissions(lbs/mile)": 0.46311368
+  },
+  {
+    "Make": "AUDI",
+    "Model": "RS 3",
+    "CO2 Emissions(lbs/mile)": 0.339799387
+  },
+  {
+    "Make": "AUDI",
+    "Model": "S5 SPORTBACK",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "AUDI",
+    "Model": "TT RS",
+    "CO2 Emissions(lbs/mile)": 0.33568891
+  },
+  {
+    "Make": "AUDI",
+    "Model": "TTS COUPE",
+    "CO2 Emissions(lbs/mile)": 0.304175258
+  },
+  {
+    "Make": "BENTLEY",
+    "Model": "CONTINENTAL SUPERSPORTS",
+    "CO2 Emissions(lbs/mile)": 0.53299178
+  },
+  {
+    "Make": "BMW",
+    "Model": "640i xDRIVE GRAN TURISMO",
+    "CO2 Emissions(lbs/mile)": 0.330208275
+  },
+  {
+    "Make": "BMW",
+    "Model": "750i xDRIVE SWB",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "BMW",
+    "Model": "M550i xDRIVE",
+    "CO2 Emissions(lbs/mile)": 0.387754945
+  },
+  {
+    "Make": "BMW",
+    "Model": "X2 xDRIVE28i",
+    "CO2 Emissions(lbs/mile)": 0.304175258
+  },
+  {
+    "Make": "BMW",
+    "Model": "X3 xDRIVE30i",
+    "CO2 Emissions(lbs/mile)": 0.305545416
+  },
+  {
+    "Make": "BMW",
+    "Model": "X3 M40i",
+    "CO2 Emissions(lbs/mile)": 0.330208275
+  },
+  {
+    "Make": "BUGATTI",
+    "Model": "CHIRON",
+    "CO2 Emissions(lbs/mile)": 0.715222903
+  },
+  {
+    "Make": "BUICK",
+    "Model": "ENCORE (SIDI with Stop/Start)",
+    "CO2 Emissions(lbs/mile)": 0.253479381
+  },
+  {
+    "Make": "BUICK",
+    "Model": "ENCORE AWD (SIDI with Stop/Start)",
+    "CO2 Emissions(lbs/mile)": 0.268551128
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "CRUZE HATCHBACK DIESEL",
+    "CO2 Emissions(lbs/mile)": 0.24388827
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "SILVERADO eASSIST",
+    "CO2 Emissions(lbs/mile)": 0.380904151
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHALLENGER GT AWD",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHALLENGER GT AWD FFV",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "DODGE",
+    "Model": "CHALLENGER SRT DEMON",
+    "CO2 Emissions(lbs/mile)": 0.464483839
+  },
+  {
+    "Make": "DODGE",
+    "Model": "DURANGO AWD SRT",
+    "CO2 Emissions(lbs/mile)": 0.497367651
+  },
+  {
+    "Make": "FIAT",
+    "Model": 500,
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "FIAT",
+    "Model": "500 ABARTH",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "FORD",
+    "Model": "ECOSPORT",
+    "CO2 Emissions(lbs/mile)": 0.267180969
+  },
+  {
+    "Make": "FORD",
+    "Model": "ECOSPORT AWD",
+    "CO2 Emissions(lbs/mile)": 0.297324463
+  },
+  {
+    "Make": "FORD",
+    "Model": "F-150 FFV (LT Tire Pkg)",
+    "CO2 Emissions(lbs/mile)": 0.360351769
+  },
+  {
+    "Make": "FORD",
+    "Model": "F-150 4X4 XL/XLT",
+    "CO2 Emissions(lbs/mile)": 0.364462246
+  },
+  {
+    "Make": "FORD",
+    "Model": "F-150 RAPTOR 4WD",
+    "CO2 Emissions(lbs/mile)": 0.464483839
+  },
+  {
+    "Make": "GMC",
+    "Model": "SIERRA eASSIST",
+    "CO2 Emissions(lbs/mile)": 0.380904151
+  },
+  {
+    "Make": "HONDA",
+    "Model": "ACCORD SPORT/TOURING",
+    "CO2 Emissions(lbs/mile)": 0.289103511
+  },
+  {
+    "Make": "HONDA",
+    "Model": "CIVIC COUPE Si",
+    "CO2 Emissions(lbs/mile)": 0.237037475
+  },
+  {
+    "Make": "HONDA",
+    "Model": "CIVIC HATCHBACK SPORT",
+    "CO2 Emissions(lbs/mile)": 0.232926999
+  },
+  {
+    "Make": "HONDA",
+    "Model": "CIVIC SEDAN Si",
+    "CO2 Emissions(lbs/mile)": 0.237037475
+  },
+  {
+    "Make": "HONDA",
+    "Model": "CIVIC TYPE R",
+    "CO2 Emissions(lbs/mile)": 0.306915575
+  },
+  {
+    "Make": "HONDA",
+    "Model": "ODYSSEY TOURING",
+    "CO2 Emissions(lbs/mile)": 0.338429228
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "KONA",
+    "CO2 Emissions(lbs/mile)": 0.25484954
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "KONA AWD",
+    "CO2 Emissions(lbs/mile)": 0.275401922
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "SANTA FE SPORT ULTIMATE AWD",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q50 AWD RED SPORT",
+    "CO2 Emissions(lbs/mile)": 0.356241293
+  },
+  {
+    "Make": "INFINITI",
+    "Model": "Q60 AWD RED SPORT",
+    "CO2 Emissions(lbs/mile)": 0.354871134
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-PACE 20d",
+    "CO2 Emissions(lbs/mile)": 0.298694622
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-PACE 25t",
+    "CO2 Emissions(lbs/mile)": 0.311026052
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE CONVERTIBLE R-DYNAMIC",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE CONVERTIBLE R-DYNAMIC AWD",
+    "CO2 Emissions(lbs/mile)": 0.363092087
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE COUPE R-DYNAMIC",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE COUPE R-DYNAMIC AWD",
+    "CO2 Emissions(lbs/mile)": 0.363092087
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XE 25t AWD",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XF 25t AWD",
+    "CO2 Emissions(lbs/mile)": 0.283622875
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XJ R-SPORT AWD",
+    "CO2 Emissions(lbs/mile)": 0.378163834
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XJL PORTFOLIO AWD",
+    "CO2 Emissions(lbs/mile)": 0.383644469
+  },
+  {
+    "Make": "JEEP",
+    "Model": "CHEROKEE 4X4 ACTIVE DRIVE I FFV",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "JEEP",
+    "Model": "GRAND CHEROKEE 4X4 SRT",
+    "CO2 Emissions(lbs/mile)": 0.504218445
+  },
+  {
+    "Make": "JEEP",
+    "Model": "GRAND CHEROKEE 4X4 TRACKHAWK",
+    "CO2 Emissions(lbs/mile)": 0.565875592
+  },
+  {
+    "Make": "JEEP",
+    "Model": "NEW WRANGLER 4X4",
+    "CO2 Emissions(lbs/mile)": 0.319247005
+  },
+  {
+    "Make": "JEEP",
+    "Model": "NEW WRANGLER UNLIMITED 4X4",
+    "CO2 Emissions(lbs/mile)": 0.33568891
+  },
+  {
+    "Make": "JEEP",
+    "Model": "WRANGLER JK 4X4",
+    "CO2 Emissions(lbs/mile)": 0.409677487
+  },
+  {
+    "Make": "JEEP",
+    "Model": "WRANGLER JK UNLIMITED 4X4",
+    "CO2 Emissions(lbs/mile)": 0.42885971
+  },
+  {
+    "Make": "KIA",
+    "Model": "STINGER AWD",
+    "CO2 Emissions(lbs/mile)": 0.363092087
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "AVENTADOR S COUPE",
+    "CO2 Emissions(lbs/mile)": 0.622052103
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "AVENTADOR S ROADSTER",
+    "CO2 Emissions(lbs/mile)": 0.635753691
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "HURACAN AWD",
+    "CO2 Emissions(lbs/mile)": 0.478185427
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "HURACAN SPYDER AWD",
+    "CO2 Emissions(lbs/mile)": 0.479555586
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "RANGE ROVER VELAR",
+    "CO2 Emissions(lbs/mile)": 0.313766369
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "IS 300",
+    "CO2 Emissions(lbs/mile)": 0.293213987
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "LC 500",
+    "CO2 Emissions(lbs/mile)": 0.391865422
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "LC 500h",
+    "CO2 Emissions(lbs/mile)": 0.256219699
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "LS 500",
+    "CO2 Emissions(lbs/mile)": 0.328838116
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "LS 500 AWD",
+    "CO2 Emissions(lbs/mile)": 0.354871134
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "LS 500h",
+    "CO2 Emissions(lbs/mile)": 0.267180969
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "LS 500h AWD",
+    "CO2 Emissions(lbs/mile)": 0.289103511
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "NX 300 AWD",
+    "CO2 Emissions(lbs/mile)": 0.309655893
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "NX 300 AWD F SPORT",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "RX 350 L AWD",
+    "CO2 Emissions(lbs/mile)": 0.367202563
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-5",
+    "CO2 Emissions(lbs/mile)": 0.282252716
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-5 (Cylinder Deactivation)",
+    "CO2 Emissions(lbs/mile)": 0.275401922
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-5 4WD (Cylinder Deactivation)",
+    "CO2 Emissions(lbs/mile)": 0.284993034
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "MAZDA6 TURBO",
+    "CO2 Emissions(lbs/mile)": 0.284993034
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG C 43 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG C 43 4MATIC CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.350760657
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG C 43 4MATIC COUPE",
+    "CO2 Emissions(lbs/mile)": 0.33568891
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG CLA 45 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.297324463
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG E 43 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GLC 43 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.379533993
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GLS 63 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.502848286
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GT ROADSTER",
+    "CO2 Emissions(lbs/mile)": 0.416528281
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GT C COUPE",
+    "CO2 Emissions(lbs/mile)": 0.441191139
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GT C ROADSTER",
+    "CO2 Emissions(lbs/mile)": 0.441191139
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GT R COUPE",
+    "CO2 Emissions(lbs/mile)": 0.443931457
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG S 63 4MATIC CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.419268598
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG S 63 4MATIC COUPE",
+    "CO2 Emissions(lbs/mile)": 0.37131304
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "C 300 4MATIC WAGON",
+    "CO2 Emissions(lbs/mile)": 0.304175258
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 400 4MATIC CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "GLC 300 4MATIC COUPE",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "MAYBACH S 650",
+    "CO2 Emissions(lbs/mile)": 0.48640638
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "S 450 4MATIC SWB",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "S 560 CABRIOLET",
+    "CO2 Emissions(lbs/mile)": 0.378163834
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "S 560 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.363092087
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "S 560 4MATIC SWB",
+    "CO2 Emissions(lbs/mile)": 0.357611451
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "S 560 4MATIC COUPE",
+    "CO2 Emissions(lbs/mile)": 0.368572722
+  },
+  {
+    "Make": "MITSUBISHI",
+    "Model": "ECLIPSE CROSS",
+    "CO2 Emissions(lbs/mile)": 0.284993034
+  },
+  {
+    "Make": "MITSUBISHI",
+    "Model": "ECLIPSE CROSS 4WD",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "KICKS",
+    "CO2 Emissions(lbs/mile)": 0.23155684
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 TARGA 4 GTS",
+    "CO2 Emissions(lbs/mile)": 0.343909863
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 TURBO S EXCLUSIVE",
+    "CO2 Emissions(lbs/mile)": 0.390495263
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "MACAN TURBO KIT",
+    "CO2 Emissions(lbs/mile)": 0.391865422
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "PANAMERA 4 EXECUTIVE",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "PANAMERA 4 ST",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "PANAMERA 4S ST",
+    "CO2 Emissions(lbs/mile)": 0.341169546
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "PANAMERA TURBO ST",
+    "CO2 Emissions(lbs/mile)": 0.38227431
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "BRZ tS",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "WRX STI AWD",
+    "CO2 Emissions(lbs/mile)": 0.398716216
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "WRX STI AWD TYPE RA",
+    "CO2 Emissions(lbs/mile)": 0.40556701
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "CAMRY LE/SE",
+    "CO2 Emissions(lbs/mile)": 0.235667317
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "CAMRY XLE/XSE",
+    "CO2 Emissions(lbs/mile)": 0.237037475
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "CAMRY XSE",
+    "CO2 Emissions(lbs/mile)": 0.294584146
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "C-HR",
+    "CO2 Emissions(lbs/mile)": 0.258960017
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "ATLAS",
+    "CO2 Emissions(lbs/mile)": 0.319247005
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "ATLAS 4MOTION",
+    "CO2 Emissions(lbs/mile)": 0.386384787
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "BEETLE DUNE CONVERTIBLE",
+    "CO2 Emissions(lbs/mile)": 0.258960017
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "S90 T5 AWD",
+    "CO2 Emissions(lbs/mile)": 0.282252716
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "V90 CC T5 AWD",
+    "CO2 Emissions(lbs/mile)": 0.293213987
+  },
+  {
+    "Make": "ACURA",
+    "Model": "MDX SH-AWD A-SPEC",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "ACURA",
+    "Model": "RDX AWD A-SPEC",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "ALFA ROMEO",
+    "Model": "Stelvio",
+    "CO2 Emissions(lbs/mile)": 0.298694622
+  },
+  {
+    "Make": "ALFA ROMEO",
+    "Model": "Stelvio AWD Quadrifoglio",
+    "CO2 Emissions(lbs/mile)": 0.400086375
+  },
+  {
+    "Make": "ASTON MARTIN",
+    "Model": "DB11 AMR",
+    "CO2 Emissions(lbs/mile)": 0.427489551
+  },
+  {
+    "Make": "ASTON MARTIN",
+    "Model": "DBS Superleggera",
+    "CO2 Emissions(lbs/mile)": 0.443931457
+  },
+  {
+    "Make": "ASTON MARTIN",
+    "Model": "Rapide AMR",
+    "CO2 Emissions(lbs/mile)": 0.454892728
+  },
+  {
+    "Make": "ASTON MARTIN",
+    "Model": "Vanquish Zagato",
+    "CO2 Emissions(lbs/mile)": 0.474074951
+  },
+  {
+    "Make": "ASTON MARTIN",
+    "Model": "Vantage V8",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "AUDI",
+    "Model": "Q8",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "AUDI",
+    "Model": "RS 5 Coupe",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "AUDI",
+    "Model": "RS 5 Sportback",
+    "CO2 Emissions(lbs/mile)": 0.367202563
+  },
+  {
+    "Make": "AUDI",
+    "Model": "TT RS Coupe",
+    "CO2 Emissions(lbs/mile)": 0.330208275
+  },
+  {
+    "Make": "BMW",
+    "Model": "M2 Competition",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "BMW",
+    "Model": "M240i Coupe M Performance",
+    "CO2 Emissions(lbs/mile)": 0.311026052
+  },
+  {
+    "Make": "BMW",
+    "Model": "M240i xDrive Coupe M Performance",
+    "CO2 Emissions(lbs/mile)": 0.313766369
+  },
+  {
+    "Make": "BMW",
+    "Model": "M4 Cabriolet Competition",
+    "CO2 Emissions(lbs/mile)": 0.409677487
+  },
+  {
+    "Make": "BMW",
+    "Model": "M4 Coupe Competition",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "BMW",
+    "Model": "M4 CS",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "BMW",
+    "Model": "M5 Competition",
+    "CO2 Emissions(lbs/mile)": 0.443931457
+  },
+  {
+    "Make": "BMW",
+    "Model": "M760Li xDrive",
+    "CO2 Emissions(lbs/mile)": 0.48640638
+  },
+  {
+    "Make": "BMW",
+    "Model": "M850i xDrive Cabriolet",
+    "CO2 Emissions(lbs/mile)": 0.369942881
+  },
+  {
+    "Make": "BMW",
+    "Model": "M850i xDrive Coupe",
+    "CO2 Emissions(lbs/mile)": 0.368572722
+  },
+  {
+    "Make": "BMW",
+    "Model": "X4 xDrive30i",
+    "CO2 Emissions(lbs/mile)": 0.305545416
+  },
+  {
+    "Make": "BMW",
+    "Model": "X5 xDrive40i",
+    "CO2 Emissions(lbs/mile)": 0.33568891
+  },
+  {
+    "Make": "BMW",
+    "Model": "X7 xDrive40i",
+    "CO2 Emissions(lbs/mile)": 0.34802034
+  },
+  {
+    "Make": "BMW",
+    "Model": "X7 xDrive50i",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "XT4",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "XT4 AWD",
+    "CO2 Emissions(lbs/mile)": 0.311026052
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "Blazer",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "Blazer AWD",
+    "CO2 Emissions(lbs/mile)": 0.363092087
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "Corvette ZR1",
+    "CO2 Emissions(lbs/mile)": 0.52203051
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "Silverado 4WD Trail Boss",
+    "CO2 Emissions(lbs/mile)": 0.47544511
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "Silverado LD",
+    "CO2 Emissions(lbs/mile)": 0.434340345
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "Silverado LD 4WD",
+    "CO2 Emissions(lbs/mile)": 0.445301616
+  },
+  {
+    "Make": "DODGE",
+    "Model": "Challenger SRT Hellcat Redeye",
+    "CO2 Emissions(lbs/mile)": 0.464483839
+  },
+  {
+    "Make": "FORD",
+    "Model": "F-150 4X4 Limited",
+    "CO2 Emissions(lbs/mile)": 0.40556701
+  },
+  {
+    "Make": "FORD",
+    "Model": "Mustang Bullitt",
+    "CO2 Emissions(lbs/mile)": 0.426119392
+  },
+  {
+    "Make": "FORD",
+    "Model": "Ranger 4WD",
+    "CO2 Emissions(lbs/mile)": 0.350760657
+  },
+  {
+    "Make": "GENESIS",
+    "Model": "G70",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "GENESIS",
+    "Model": "G70 AWD",
+    "CO2 Emissions(lbs/mile)": 0.330208275
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra 4WD AT4",
+    "CO2 Emissions(lbs/mile)": 0.438450822
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra LTD",
+    "CO2 Emissions(lbs/mile)": 0.434340345
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra LTD 4WD",
+    "CO2 Emissions(lbs/mile)": 0.445301616
+  },
+  {
+    "Make": "HONDA",
+    "Model": "Insight EX",
+    "CO2 Emissions(lbs/mile)": 0.156198105
+  },
+  {
+    "Make": "HONDA",
+    "Model": "Insight Touring",
+    "CO2 Emissions(lbs/mile)": 0.156198105
+  },
+  {
+    "Make": "HONDA",
+    "Model": "Passport AWD",
+    "CO2 Emissions(lbs/mile)": 0.363092087
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "Santa Fe XL",
+    "CO2 Emissions(lbs/mile)": 0.367202563
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "Santa Fe XL AWD",
+    "CO2 Emissions(lbs/mile)": 0.378163834
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "Santa Fe XL Ultimate AWD",
+    "CO2 Emissions(lbs/mile)": 0.406937169
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "Sonata SE",
+    "CO2 Emissions(lbs/mile)": 0.260330175
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "Veloster N",
+    "CO2 Emissions(lbs/mile)": 0.309655893
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "E-PACE P250",
+    "CO2 Emissions(lbs/mile)": 0.316506687
+  },
+  {
+    "Make": "JEEP",
+    "Model": "Grand Cherokee 4X4 EcoDiesel",
+    "CO2 Emissions(lbs/mile)": 0.367202563
+  },
+  {
+    "Make": "JEEP",
+    "Model": "Renegade 4X4 Trailhawk",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "JEEP",
+    "Model": "Wrangler JL 4X4",
+    "CO2 Emissions(lbs/mile)": 0.319247005
+  },
+  {
+    "Make": "JEEP",
+    "Model": "Wrangler JL Unlimited 4X4",
+    "CO2 Emissions(lbs/mile)": 0.33568891
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "Huracan Coupe",
+    "CO2 Emissions(lbs/mile)": 0.501478127
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "Huracan Coupe AWD",
+    "CO2 Emissions(lbs/mile)": 0.506958763
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "Huracan Performante Coupe",
+    "CO2 Emissions(lbs/mile)": 0.506958763
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "Huracan Performante Spyder",
+    "CO2 Emissions(lbs/mile)": 0.506958763
+  },
+  {
+    "Make": "LAMBORGHINI",
+    "Model": "Urus",
+    "CO2 Emissions(lbs/mile)": 0.526140986
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Discovery",
+    "CO2 Emissions(lbs/mile)": 0.426119392
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Discovery TD6 Diesel",
+    "CO2 Emissions(lbs/mile)": 0.38227431
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Range Rover 3.0",
+    "CO2 Emissions(lbs/mile)": 0.398716216
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Range Rover 5.0 Supercharged",
+    "CO2 Emissions(lbs/mile)": 0.417898439
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Range Rover SVAutobiography LWB",
+    "CO2 Emissions(lbs/mile)": 0.500107969
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Range Rover Sport 3.0",
+    "CO2 Emissions(lbs/mile)": 0.398716216
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Range Rover Velar D180",
+    "CO2 Emissions(lbs/mile)": 0.313766369
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Range Rover Velar P300",
+    "CO2 Emissions(lbs/mile)": 0.339799387
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Range Rover Velar P380",
+    "CO2 Emissions(lbs/mile)": 0.374053357
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "ES 350 F SPORT",
+    "CO2 Emissions(lbs/mile)": 0.300064781
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "RX 450h L AWD",
+    "CO2 Emissions(lbs/mile)": 0.260330175
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "UX 200",
+    "CO2 Emissions(lbs/mile)": 0.230186681
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "UX 250h",
+    "CO2 Emissions(lbs/mile)": 0.178120646
+  },
+  {
+    "Make": "LEXUS",
+    "Model": "UX 250h AWD",
+    "CO2 Emissions(lbs/mile)": 0.191822234
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "Nautilus",
+    "CO2 Emissions(lbs/mile)": 0.342539704
+  },
+  {
+    "Make": "MASERATI",
+    "Model": "Levante GTS",
+    "CO2 Emissions(lbs/mile)": 0.493257174
+  },
+  {
+    "Make": "MASERATI",
+    "Model": "Levante Trofeo",
+    "CO2 Emissions(lbs/mile)": 0.493257174
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-5 Turbo 4WD",
+    "CO2 Emissions(lbs/mile)": 0.315136528
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-5 Diesel 4WD",
+    "CO2 Emissions(lbs/mile)": 0.311026052
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "Mazda3 4-Door (Cylinder Deactivation)",
+    "CO2 Emissions(lbs/mile)": 0.250739064
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "Mazda3 4-Door 4WD",
+    "CO2 Emissions(lbs/mile)": 0.263070493
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "Mazda3 5-Door 4WD",
+    "CO2 Emissions(lbs/mile)": 0.279512399
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "A 220",
+    "CO2 Emissions(lbs/mile)": 0.267180969
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "A 220 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.272661605
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "A 250",
+    "CO2 Emissions(lbs/mile)": 0.263070493
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "A 250 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.275401922
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG C 43 4MATIC Wagon",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG CLS 53 4MATIC+",
+    "CO2 Emissions(lbs/mile)": 0.321987322
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG E 53 4MATIC+",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG E 53 4MATIC+ Cabriolet",
+    "CO2 Emissions(lbs/mile)": 0.33568891
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG E 53 4MATIC+ Coupe",
+    "CO2 Emissions(lbs/mile)": 0.32472764
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG E 53 4MATIC+ Wagon",
+    "CO2 Emissions(lbs/mile)": 0.327467957
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG E 63 S 4MATIC+",
+    "CO2 Emissions(lbs/mile)": 0.435710504
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG E 63 S 4MATIC+ Wagon",
+    "CO2 Emissions(lbs/mile)": 0.409677487
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GLC 63 S 4MATIC+",
+    "CO2 Emissions(lbs/mile)": 0.423379075
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GLC 63 S 4MATIC+ Coupe",
+    "CO2 Emissions(lbs/mile)": 0.423379075
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GT 53 4MATIC+ Coupe",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GT 63 4MATIC+ Coupe",
+    "CO2 Emissions(lbs/mile)": 0.442561298
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG GT 63 S 4MATIC+ Coupe",
+    "CO2 Emissions(lbs/mile)": 0.443931457
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG S 63 4MATIC+",
+    "CO2 Emissions(lbs/mile)": 0.376793675
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG S 63 4MATIC+ Cabriolet",
+    "CO2 Emissions(lbs/mile)": 0.419268598
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "AMG S 63 4MATIC+ Coupe",
+    "CO2 Emissions(lbs/mile)": 0.37131304
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "CLS 450 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.291843828
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 450 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 450 4MATIC Cabriolet",
+    "CO2 Emissions(lbs/mile)": 0.37131304
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 450 4MATIC Coupe",
+    "CO2 Emissions(lbs/mile)": 0.352130816
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "E 450 4MATIC Wagon",
+    "CO2 Emissions(lbs/mile)": 0.34802034
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "Maybach S 560 4MATIC",
+    "CO2 Emissions(lbs/mile)": 0.391865422
+  },
+  {
+    "Make": "MERCEDES-BENZ",
+    "Model": "Metris Cargo LWB",
+    "CO2 Emissions(lbs/mile)": 0.339799387
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "Altima SR/Platinum",
+    "CO2 Emissions(lbs/mile)": 0.260330175
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "Altima AWD",
+    "CO2 Emissions(lbs/mile)": 0.25484954
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "Altima AWD SR/Platinum",
+    "CO2 Emissions(lbs/mile)": 0.260330175
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 Carrera T",
+    "CO2 Emissions(lbs/mile)": 0.339799387
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 GT2 RS",
+    "CO2 Emissions(lbs/mile)": 0.431600028
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 GT3 RS",
+    "CO2 Emissions(lbs/mile)": 0.459003204
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 GT3 Touring",
+    "CO2 Emissions(lbs/mile)": 0.457633045
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 Speedster",
+    "CO2 Emissions(lbs/mile)": 0.479555586
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "911 Turbo S Exclusive Cabriolet",
+    "CO2 Emissions(lbs/mile)": 0.406937169
+  },
+  {
+    "Make": "PORSCHE",
+    "Model": "Panamera GTS ST",
+    "CO2 Emissions(lbs/mile)": 0.42885971
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 eTorque",
+    "CO2 Emissions(lbs/mile)": 0.346650181
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 HFE eTorque",
+    "CO2 Emissions(lbs/mile)": 0.337059069
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 4X4 eTorque",
+    "CO2 Emissions(lbs/mile)": 0.356241293
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 Classic EcoDiesel",
+    "CO2 Emissions(lbs/mile)": 0.380904151
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 Classic FFV",
+    "CO2 Emissions(lbs/mile)": 0.383644469
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 Classic",
+    "CO2 Emissions(lbs/mile)": 0.474074951
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 Classic 4X4 EcoDiesel",
+    "CO2 Emissions(lbs/mile)": 0.395975898
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 Classic 4X4 FFV",
+    "CO2 Emissions(lbs/mile)": 0.402826692
+  },
+  {
+    "Make": "RAM",
+    "Model": "1500 Classic 4X4",
+    "CO2 Emissions(lbs/mile)": 0.523400668
+  },
+  {
+    "Make": "ROLLS-ROYCE",
+    "Model": "Cullinan",
+    "CO2 Emissions(lbs/mile)": 0.523400668
+  },
+  {
+    "Make": "SUBARU",
+    "Model": "Ascent AWD",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "Corolla LE Eco",
+    "CO2 Emissions(lbs/mile)": 0.223335887
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "Corolla Hatchback",
+    "CO2 Emissions(lbs/mile)": 0.215114934
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "Prius AWD",
+    "CO2 Emissions(lbs/mile)": 0.149347311
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "Arteon 4MOTION",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC40 T5 AWD",
+    "CO2 Emissions(lbs/mile)": 0.289103511
+  },
+  {
+    "Make": "ACURA",
+    "Model": "TLX SH-AWD A-SPEC/Limited Edition",
+    "CO2 Emissions(lbs/mile)": 0.328838116
+  },
+  {
+    "Make": "AUDI",
+    "Model": "A6 allroad",
+    "CO2 Emissions(lbs/mile)": 0.338429228
+  },
+  {
+    "Make": "AUDI",
+    "Model": "R8 Coupe",
+    "CO2 Emissions(lbs/mile)": 0.47544511
+  },
+  {
+    "Make": "BMW",
+    "Model": "330i xDrive Sedan",
+    "CO2 Emissions(lbs/mile)": 0.267180969
+  },
+  {
+    "Make": "BMW",
+    "Model": "430i Coupe",
+    "CO2 Emissions(lbs/mile)": 0.279512399
+  },
+  {
+    "Make": "BMW",
+    "Model": "530i xDrive Sedan",
+    "CO2 Emissions(lbs/mile)": 0.282252716
+  },
+  {
+    "Make": "BMW",
+    "Model": "540i xDrive Sedan",
+    "CO2 Emissions(lbs/mile)": 0.304175258
+  },
+  {
+    "Make": "BMW",
+    "Model": "M340i xDrive Sedan",
+    "CO2 Emissions(lbs/mile)": 0.319247005
+  },
+  {
+    "Make": "BMW",
+    "Model": "M550i xDrive Sedan",
+    "CO2 Emissions(lbs/mile)": 0.374053357
+  },
+  {
+    "Make": "BMW",
+    "Model": "M760i xDrive Sedan",
+    "CO2 Emissions(lbs/mile)": 0.485036222
+  },
+  {
+    "Make": "BMW",
+    "Model": "M8 Cabriolet",
+    "CO2 Emissions(lbs/mile)": 0.441191139
+  },
+  {
+    "Make": "BMW",
+    "Model": "M8 Cabriolet Competition",
+    "CO2 Emissions(lbs/mile)": 0.441191139
+  },
+  {
+    "Make": "BMW",
+    "Model": "M8 Coupe",
+    "CO2 Emissions(lbs/mile)": 0.441191139
+  },
+  {
+    "Make": "BMW",
+    "Model": "M8 Coupe Competition",
+    "CO2 Emissions(lbs/mile)": 0.441191139
+  },
+  {
+    "Make": "BMW",
+    "Model": "M8 Gran Coupe",
+    "CO2 Emissions(lbs/mile)": 0.441191139
+  },
+  {
+    "Make": "BMW",
+    "Model": "M8 Gran Coupe Competition",
+    "CO2 Emissions(lbs/mile)": 0.441191139
+  },
+  {
+    "Make": "BMW",
+    "Model": "M850i xDrive Gran Coupe",
+    "CO2 Emissions(lbs/mile)": 0.397346057
+  },
+  {
+    "Make": "BMW",
+    "Model": "X2 M35i",
+    "CO2 Emissions(lbs/mile)": 0.287733352
+  },
+  {
+    "Make": "BMW",
+    "Model": "X3 M",
+    "CO2 Emissions(lbs/mile)": 0.464483839
+  },
+  {
+    "Make": "BMW",
+    "Model": "X3 M Competition",
+    "CO2 Emissions(lbs/mile)": 0.464483839
+  },
+  {
+    "Make": "BMW",
+    "Model": "X4 M",
+    "CO2 Emissions(lbs/mile)": 0.464483839
+  },
+  {
+    "Make": "BMW",
+    "Model": "X4 M Competition",
+    "CO2 Emissions(lbs/mile)": 0.464483839
+  },
+  {
+    "Make": "BMW",
+    "Model": "X5 M50i",
+    "CO2 Emissions(lbs/mile)": 0.413787963
+  },
+  {
+    "Make": "BMW",
+    "Model": "X6 xDrive40i",
+    "CO2 Emissions(lbs/mile)": 0.33568891
+  },
+  {
+    "Make": "BMW",
+    "Model": "X6 M50i",
+    "CO2 Emissions(lbs/mile)": 0.413787963
+  },
+  {
+    "Make": "BMW",
+    "Model": "X7 M50i",
+    "CO2 Emissions(lbs/mile)": 0.435710504
+  },
+  {
+    "Make": "BMW",
+    "Model": "Z4 sDrive30i",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "BMW",
+    "Model": "Z4 M40i",
+    "CO2 Emissions(lbs/mile)": 0.295954305
+  },
+  {
+    "Make": "BUICK",
+    "Model": "Encore GX",
+    "CO2 Emissions(lbs/mile)": 0.271291446
+  },
+  {
+    "Make": "BUICK",
+    "Model": "Encore GX AWD",
+    "CO2 Emissions(lbs/mile)": 0.272661605
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CT4",
+    "CO2 Emissions(lbs/mile)": 0.27814224
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CT4 AWD",
+    "CO2 Emissions(lbs/mile)": 0.291843828
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CT4-V",
+    "CO2 Emissions(lbs/mile)": 0.320617163
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CT4-V AWD",
+    "CO2 Emissions(lbs/mile)": 0.326097799
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CT5",
+    "CO2 Emissions(lbs/mile)": 0.286363193
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CT5 AWD",
+    "CO2 Emissions(lbs/mile)": 0.302805099
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CT5-V",
+    "CO2 Emissions(lbs/mile)": 0.360351769
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "CT5-V AWD",
+    "CO2 Emissions(lbs/mile)": 0.378163834
+  },
+  {
+    "Make": "CADILLAC",
+    "Model": "XT6 AWD",
+    "CO2 Emissions(lbs/mile)": 0.379533993
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "Silverado WT",
+    "CO2 Emissions(lbs/mile)": 0.376793675
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "Silverado WT 4WD",
+    "CO2 Emissions(lbs/mile)": 0.383644469
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "Silverado 4WD Custom Trail Boss",
+    "CO2 Emissions(lbs/mile)": 0.478185427
+  },
+  {
+    "Make": "CHEVROLET",
+    "Model": "Silverado 4WD LT Trail Boss",
+    "CO2 Emissions(lbs/mile)": 0.420638757
+  },
+  {
+    "Make": "CHRYSLER",
+    "Model": "Voyager (Stop-Start)",
+    "CO2 Emissions(lbs/mile)": 0.341169546
+  },
+  {
+    "Make": "DODGE",
+    "Model": "Challenger AWD",
+    "CO2 Emissions(lbs/mile)": 0.353500975
+  },
+  {
+    "Make": "DODGE",
+    "Model": "Challenger Widebody (MDS)",
+    "CO2 Emissions(lbs/mile)": 0.417898439
+  },
+  {
+    "Make": "DODGE",
+    "Model": "Challenger SRT Hellcat Widebody",
+    "CO2 Emissions(lbs/mile)": 0.490516857
+  },
+  {
+    "Make": "DODGE",
+    "Model": "Charger Widebody (MDS)",
+    "CO2 Emissions(lbs/mile)": 0.417898439
+  },
+  {
+    "Make": "DODGE",
+    "Model": "Charger SRT Hellcat Widebody",
+    "CO2 Emissions(lbs/mile)": 0.504218445
+  },
+  {
+    "Make": "DODGE",
+    "Model": "Grand Caravan",
+    "CO2 Emissions(lbs/mile)": 0.378163834
+  },
+  {
+    "Make": "FORD",
+    "Model": "Escape Hybrid",
+    "CO2 Emissions(lbs/mile)": 0.186341599
+  },
+  {
+    "Make": "FORD",
+    "Model": "Escape Hybrid AWD",
+    "CO2 Emissions(lbs/mile)": 0.190452076
+  },
+  {
+    "Make": "FORD",
+    "Model": "Explorer Hybrid AWD",
+    "CO2 Emissions(lbs/mile)": 0.308285734
+  },
+  {
+    "Make": "FORD",
+    "Model": "Mustang Convertible (Performance Pkg)",
+    "CO2 Emissions(lbs/mile)": 0.334318752
+  },
+  {
+    "Make": "FORD",
+    "Model": "Shelby GT500 Mustang",
+    "CO2 Emissions(lbs/mile)": 0.537102257
+  },
+  {
+    "Make": "FORD",
+    "Model": "T-150 Wagon FFV 4WD",
+    "CO2 Emissions(lbs/mile)": 0.482295904
+  },
+  {
+    "Make": "FORD",
+    "Model": "Transit Connect Van LWB",
+    "CO2 Emissions(lbs/mile)": 0.300064781
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra WT",
+    "CO2 Emissions(lbs/mile)": 0.376793675
+  },
+  {
+    "Make": "GMC",
+    "Model": "Sierra WT 4WD",
+    "CO2 Emissions(lbs/mile)": 0.383644469
+  },
+  {
+    "Make": "HONDA",
+    "Model": "Insight EX/Touring",
+    "CO2 Emissions(lbs/mile)": 0.157568264
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "Palisade",
+    "CO2 Emissions(lbs/mile)": 0.342539704
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "Palisade AWD",
+    "CO2 Emissions(lbs/mile)": 0.363092087
+  },
+  {
+    "Make": "HYUNDAI",
+    "Model": "Venue",
+    "CO2 Emissions(lbs/mile)": 0.24388827
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "E-PACE P300",
+    "CO2 Emissions(lbs/mile)": 0.323357481
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-PACE 30t",
+    "CO2 Emissions(lbs/mile)": 0.317876846
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-PACE S",
+    "CO2 Emissions(lbs/mile)": 0.379533993
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-PACE SVR",
+    "CO2 Emissions(lbs/mile)": 0.415158122
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE P300 Convertible",
+    "CO2 Emissions(lbs/mile)": 0.294584146
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE SVR AWD Convertible",
+    "CO2 Emissions(lbs/mile)": 0.409677487
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE P300 Coupe",
+    "CO2 Emissions(lbs/mile)": 0.294584146
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "F-TYPE SVR AWD Coupe",
+    "CO2 Emissions(lbs/mile)": 0.409677487
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XE P250 AWD",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XE P300 AWD",
+    "CO2 Emissions(lbs/mile)": 0.30143494
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XF 30t AWD",
+    "CO2 Emissions(lbs/mile)": 0.297324463
+  },
+  {
+    "Make": "JAGUAR",
+    "Model": "XF S AWD",
+    "CO2 Emissions(lbs/mile)": 0.332948593
+  },
+  {
+    "Make": "JEEP",
+    "Model": "Gladiator 4X4",
+    "CO2 Emissions(lbs/mile)": 0.397346057
+  },
+  {
+    "Make": "JEEP",
+    "Model": "Wrangler 4X4 eTorque",
+    "CO2 Emissions(lbs/mile)": 0.354871134
+  },
+  {
+    "Make": "JEEP",
+    "Model": "Wrangler Unlimited 4X4 eTorque",
+    "CO2 Emissions(lbs/mile)": 0.352130816
+  },
+  {
+    "Make": "JEEP",
+    "Model": "Wrangler Unlimited 4X4 EcoDiesel",
+    "CO2 Emissions(lbs/mile)": 0.349390499
+  },
+  {
+    "Make": "KIA",
+    "Model": "Telluride AWD",
+    "CO2 Emissions(lbs/mile)": 0.361721928
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Discovery Sport P250",
+    "CO2 Emissions(lbs/mile)": 0.364462246
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Discovery Sport P290",
+    "CO2 Emissions(lbs/mile)": 0.35898161
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Range Rover 5.0 Supercharged LWB",
+    "CO2 Emissions(lbs/mile)": 0.417898439
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Range Rover SVAutobiography Dynamic",
+    "CO2 Emissions(lbs/mile)": 0.485036222
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Range Rover Sport SVR",
+    "CO2 Emissions(lbs/mile)": 0.460373363
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Range Rover Evoque P250",
+    "CO2 Emissions(lbs/mile)": 0.33568891
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Range Rover Evoque P300",
+    "CO2 Emissions(lbs/mile)": 0.331578434
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Range Rover Velar P250",
+    "CO2 Emissions(lbs/mile)": 0.326097799
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Range Rover Velar P340",
+    "CO2 Emissions(lbs/mile)": 0.374053357
+  },
+  {
+    "Make": "LAND ROVER",
+    "Model": "Range Rover Velar SVAutobiography Dynamic",
+    "CO2 Emissions(lbs/mile)": 0.435710504
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "Aviator",
+    "CO2 Emissions(lbs/mile)": 0.383644469
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "Corsair AWD",
+    "CO2 Emissions(lbs/mile)": 0.313766369
+  },
+  {
+    "Make": "LINCOLN",
+    "Model": "Nautilus AWD",
+    "CO2 Emissions(lbs/mile)": 0.342539704
+  },
+  {
+    "Make": "MASERATI",
+    "Model": "Ghibli S Q4",
+    "CO2 Emissions(lbs/mile)": 0.404196851
+  },
+  {
+    "Make": "MASERATI",
+    "Model": "Quattroporte S Q4",
+    "CO2 Emissions(lbs/mile)": 0.412417804
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-3 (SIL)",
+    "CO2 Emissions(lbs/mile)": 0.25484954
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-30",
+    "CO2 Emissions(lbs/mile)": 0.258960017
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-30 4WD",
+    "CO2 Emissions(lbs/mile)": 0.276772081
+  },
+  {
+    "Make": "MAZDA",
+    "Model": "CX-30 4WD (Cylinder Deactivation)",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "NISSAN",
+    "Model": "Sentra SR",
+    "CO2 Emissions(lbs/mile)": 0.234297158
+  },
+  {
+    "Make": "ROLLS-ROYCE",
+    "Model": "Cullinan Black Badge",
+    "CO2 Emissions(lbs/mile)": 0.528881304
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "Camry TRD",
+    "CO2 Emissions(lbs/mile)": 0.30143494
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "Camry AWD LE/SE",
+    "CO2 Emissions(lbs/mile)": 0.260330175
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "Camry AWD XLE/XSE",
+    "CO2 Emissions(lbs/mile)": 0.269921287
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "Corolla XLE",
+    "CO2 Emissions(lbs/mile)": 0.232926999
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "Corolla XSE",
+    "CO2 Emissions(lbs/mile)": 0.224706046
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "Corolla Hybrid",
+    "CO2 Emissions(lbs/mile)": 0.145236835
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "GR Supra",
+    "CO2 Emissions(lbs/mile)": 0.284993034
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "Highlander Hybrid AWD Limited/Platinum",
+    "CO2 Emissions(lbs/mile)": 0.213744776
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "RAV4 AWD TRD Off-Road",
+    "CO2 Emissions(lbs/mile)": 0.274031764
+  },
+  {
+    "Make": "TOYOTA",
+    "Model": "Tacoma 4WD D-Cab TRD Off-Road/Pro",
+    "CO2 Emissions(lbs/mile)": 0.411047645
+  },
+  {
+    "Make": "VOLKSWAGEN",
+    "Model": "Atlas Cross Sport 4MOTION",
+    "CO2 Emissions(lbs/mile)": 0.374053357
+  },
+  {
+    "Make": "VOLVO",
+    "Model": "XC40 T4 AWD",
+    "CO2 Emissions(lbs/mile)": 0.287733352
+  }
+]
