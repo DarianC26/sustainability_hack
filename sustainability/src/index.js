@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import "./fonts/brussels-city-font/BrusselsCityPersonalUsed-L3Lon.otf";
 import "./index.css";
 import App from "./App";
 

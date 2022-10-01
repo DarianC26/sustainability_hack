@@ -10,3 +10,9 @@ body {
   margin:0;
   padding:0;
 }
+@font-face {
+  font-family: "BrusselsCity";
+  src: local("BrusselsCity"),
+    url("./fonts/brussels-city-font/BrusselsCityPersonalUsed-L3Lon.otf") format("opentype");
+  font-weight: normal;
+}
