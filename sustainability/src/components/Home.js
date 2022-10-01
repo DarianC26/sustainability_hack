@@ -1,5 +1,13 @@
+/*global google*/
 import React, { useState, useEffect } from "react";
-import { GoogleMap, LoadScript, Marker } from "@react-google-maps/api";
+import {
+  GoogleMap,
+  LoadScript,
+  Marker,
+  Autocomplete,
+  useJsApiLoader,
+  DirectionsRenderer,
+} from "@react-google-maps/api";
 import CarbonDisplay from "./CarbonDisplay";
 import "./Home.css";
 
@@ -14,22 +22,50 @@ function Home() {
   const west = { lat: 42.3526, lng: -71.1203 };
   const east = { lat: 42.3497, lng: -71.1042 };
 
-  const [origin, setOrigin] = useState("1");
-  const [destination, setDestination] = useState("1");
+  const [origin, setOrigin] = useState(central);
+  const [destination, setDestination] = useState(central);
 
   function handleValue(e) {
-    setOrigin(e.target.value);
+    switch (e.target.value) {
+      case "1":
+        setOrigin(central);
+        break;
+      case "2":
+        setOrigin(west);
+        break;
+      case "3":
+        setOrigin(east);
+        break;
+      default:
+        setOrigin(central);
+    }
   }
 
   function handleValue2(e) {
-    setDestination(e.target.value);
+    switch (e.target.value) {
+      case "1":
+        setDestination(central);
+        break;
+      case "2":
+        setDestination(west);
+        break;
+      case "3":
+        setDestination(east);
+        break;
+      default:
+        setDestination(central);
+    }
   }
 
-  function testCon() {
-    console.log(origin, destination);
-  }
-
-  
+  const handleDirections = async (e) => {
+    const directionServices = new google.maps.DirectionsService();
+    const res = await directionServices.route({
+      origin: origin,
+      destination: destination,
+      travelMode: google.maps.TravelMode.DRIVING,
+    });
+    console.log(res.routes[0].legs[0].distance.text);
+  };
 
   return (
     <div className="grid-container">
@@ -47,7 +83,7 @@ function Home() {
             <option value="3">East</option>
           </select>
 
-          <button onClick={testCon}>Click Me</button>
+          <button onClick={handleDirections}>Click Me</button>
         </div>
         <CarbonDisplay></CarbonDisplay>
       </div>
